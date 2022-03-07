@@ -6,7 +6,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -20,7 +20,7 @@
         "country": "africa",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -76,7 +76,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -90,7 +90,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -104,7 +104,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -117,8 +117,8 @@
         "link": "https://list.iptvcat.com/my_list/s/530d3b9c51315919308896477f57b0a3.m3u8",
         "country": "africa",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1178, ...",
         "URI": [
@@ -216,179 +216,11 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
             "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2347785",
-        "channel": "Viasat_Film_Premiere_Sweden",
-        "link": "https://list.iptvcat.com/my_list/s/9034a46a4435d23475774de759af8503.m3u8",
-        "country": "africa",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347786",
-        "channel": "Viasat_Golf",
-        "link": "https://list.iptvcat.com/my_list/s/bb370ff011d01619860f563337fbbe38.m3u8",
-        "country": "africa",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347787",
-        "channel": "Viasat_Golf_Denemark",
-        "link": "https://list.iptvcat.com/my_list/s/157092fcbfb18d42ccc81fd0f9570491.m3u8",
-        "country": "africa",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347788",
-        "channel": "Viasat_History",
-        "link": "https://list.iptvcat.com/my_list/s/2efe355fdea721d2718a4e95a2d1ff2f.m3u8",
-        "country": "africa",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347790",
-        "channel": "Viasat_Hockey",
-        "link": "https://list.iptvcat.com/my_list/s/ea7ccc97fa60423e7b110c82b0bccf66.m3u8",
-        "country": "africa",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347791",
-        "channel": "Viasat_Hockey_Denemark",
-        "link": "https://list.iptvcat.com/my_list/s/6effede690b402ee8c31ef2234cc9f7f.m3u8",
-        "country": "africa",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347792",
-        "channel": "Viasat_Motor",
-        "link": "https://list.iptvcat.com/my_list/s/f514d20efa1c158f13ca5e01e69bb24a.m3u8",
-        "country": "africa",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347794",
-        "channel": "Viasat_Series_Denemark",
-        "link": "https://list.iptvcat.com/my_list/s/1f05e8c8365e31edeaad06c2ae61d40d.m3u8",
-        "country": "africa",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347795",
-        "channel": "Viasat_Series_Sweden",
-        "link": "https://list.iptvcat.com/my_list/s/56c10ed8db18bd2db54cd3117b8cba6a.m3u8",
-        "country": "africa",
-        "liveliness": "87",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347796",
-        "channel": "Viasat_Sport_Denemark",
-        "link": "https://list.iptvcat.com/my_list/s/17657192b0caf8b0e64734e4e595e3b1.m3u8",
-        "country": "africa",
-        "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347797",
-        "channel": "Viasat_Sport_Premium",
-        "link": "https://list.iptvcat.com/my_list/s/c93df30bba48d1ef58d7c6d94ee463c6.m3u8",
-        "country": "africa",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2510",
-        "channel": "AYV",
-        "link": "https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8",
-        "country": "africa",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "africa"
         ]
     },
     {
@@ -398,7 +230,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -412,7 +244,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -426,7 +258,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -441,7 +273,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -454,11 +286,11 @@
         "channel": "PRVA TV",
         "link": "https://list.iptvcat.com/my_list/s/93d2d1ca64e001480aaef101c52a720b.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -470,7 +302,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -482,9 +314,9 @@
         "channel": "C-More-First-Denemark",
         "link": "https://list.iptvcat.com/my_list/s/8065734645a3fcad38edebb78561200c.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -510,9 +342,9 @@
         "channel": "C-More-Fotboll",
         "link": "https://list.iptvcat.com/my_list/s/e1c08575be66b44800ad9b0c40eefaa1.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -538,7 +370,7 @@
         "channel": "C-More-Golf",
         "link": "https://list.iptvcat.com/my_list/s/783c5ed3339646bcebc628319aca1216.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -552,9 +384,9 @@
         "channel": "C-More-Sport",
         "link": "https://list.iptvcat.com/my_list/s/d5373877eacf1c7db39d664741b60d12.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -566,9 +398,9 @@
         "channel": "C-More-Sport-1",
         "link": "https://list.iptvcat.com/my_list/s/c538262077483ba1da69f7ef256e28c4.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -580,9 +412,9 @@
         "channel": "C-More-Stars-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/258c03af7d5a95afd8fe9b97d49d0d33.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -596,7 +428,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -608,9 +440,9 @@
         "channel": "Cartoon-Network-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/bb08b0f303375102fffcb2998ff3189e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3252",
         "URI": [
@@ -622,9 +454,9 @@
         "channel": "Discovery-Channel-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/6cdc1c1a120c733018072e8f054932b8.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6983",
         "URI": [
@@ -636,9 +468,9 @@
         "channel": "Discovery-Science_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/d94619dd9a957bace082901f748293e9.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -664,9 +496,9 @@
         "channel": "Disney-Channel-Norge",
         "link": "https://list.iptvcat.com/my_list/s/1f564b4ef61ab3259920a5393428a36e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -678,9 +510,9 @@
         "channel": "Disney-Junior-Denemark-Multi-Audio",
         "link": "https://list.iptvcat.com/my_list/s/dd0fc79a7c3713b6e9662922e70eca0e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -692,9 +524,9 @@
         "channel": "Disney-Junior-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/abccbd555eceba360e1a787bd6cb0b97.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -720,7 +552,7 @@
         "channel": "Disney_Channel_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/c0d580f502417efbf3f5c214c6cd2ef2.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -734,9 +566,9 @@
         "channel": "Eurosport-Pluss-5-HD",
         "link": "https://list.iptvcat.com/my_list/s/d18f11e8f67eae7cd84704a6f63473ab.m3u8",
         "country": "africa",
-        "liveliness": "34",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -748,9 +580,9 @@
         "channel": "FEM",
         "link": "https://list.iptvcat.com/my_list/s/39de76db7aa6e601fa4b36aec04aa7f6.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -762,9 +594,9 @@
         "channel": "Fox_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/c3106c7f0d5b9c4c1e9297d500b03ba5.m3u8",
         "country": "africa",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -776,9 +608,9 @@
         "channel": "Investigation-Discovery-Denmark",
         "link": "https://list.iptvcat.com/my_list/s/9c25ba05f1cf694226246830626f773c.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
         "URI": [
@@ -790,9 +622,9 @@
         "channel": "Kanal_11_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/5c1ddac2c48e2951a720fec25e860e4e.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -804,9 +636,9 @@
         "channel": "Kanal_4_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/17543cb8736114a15a6303028a50d305.m3u8",
         "country": "africa",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -818,7 +650,7 @@
         "channel": "Kanal_5_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/acae92fe41956022a524c4aac93f17ba.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -860,7 +692,7 @@
         "channel": "MAX",
         "link": "https://list.iptvcat.com/my_list/s/544e413229bf6a2cf831fde957a8dc57.m3u8",
         "country": "africa",
-        "liveliness": "51",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -874,9 +706,9 @@
         "channel": "MTV_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/f08d9b6c1e625eee046f2e35cae2afd3.m3u8",
         "country": "africa",
-        "liveliness": "40",
+        "liveliness": "39",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1479",
         "URI": [
@@ -888,7 +720,7 @@
         "channel": "NRK_1",
         "link": "https://list.iptvcat.com/my_list/s/8c492daa06af9ff3287bd34c8215b5a7.m3u8",
         "country": "africa",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -918,7 +750,7 @@
         "country": "africa",
         "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -930,7 +762,7 @@
         "channel": "Nick-JR_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/46e83a26ef04a0c5c4f01b2d152c5e9c.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
@@ -944,7 +776,7 @@
         "channel": "Nick-Jr-[Multi-Audio]",
         "link": "https://list.iptvcat.com/my_list/s/39f4fc74fc1866c1d30bfd6603ddc840.m3u8",
         "country": "africa",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -958,9 +790,9 @@
         "channel": "Nickelodeon_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/aeebc655eb236c29d29b3c8839da1407.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -972,9 +804,9 @@
         "channel": "SF-Kanalen_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/7087c4302461da997e0feccfb18808d6.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
         "URI": [
@@ -986,9 +818,9 @@
         "channel": "SVT_2",
         "link": "https://list.iptvcat.com/my_list/s/a248273a7b6d35a54d346c3a462a6548.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1000,9 +832,9 @@
         "channel": "Sjuan_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/217ca3d012cb2992579a119c5c5e6bca.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1014,9 +846,9 @@
         "channel": "Sportkanalen_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/fceaacffc0cc08418ec3a44476ae7260.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1028,9 +860,9 @@
         "channel": "TLC_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/a7ca3c5ce60f3415c18e2a6056aba905.m3u8",
         "country": "africa",
-        "liveliness": "42",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -1042,9 +874,9 @@
         "channel": "TV-2-Norge",
         "link": "https://list.iptvcat.com/my_list/s/b3206cfd77d9a92037014ac225938822.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1098,9 +930,9 @@
         "channel": "TV2_News_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/5da6d4d5fa1a72b92e851636d15bac92.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1112,9 +944,9 @@
         "channel": "TV2_Sport_1",
         "link": "https://list.iptvcat.com/my_list/s/50234295301a26db2572ec3b771b21ae.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1128,23 +960,9 @@
         "country": "africa",
         "liveliness": "49",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347766",
-        "channel": "TV3_Danmark",
-        "link": "https://list.iptvcat.com/my_list/s/4ce36e1627d929831241e36f40b695f3.m3u8",
-        "country": "africa",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa"
         ]
@@ -1156,7 +974,7 @@
         "country": "africa",
         "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1196,9 +1014,9 @@
         "channel": "TV_10_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/907f26a9618acebebf2cc9a571e2d05b.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1252,9 +1070,9 @@
         "channel": "TV_4_Guld",
         "link": "https://list.iptvcat.com/my_list/s/11fe67c4b23245328132542bfd9943e6.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1266,7 +1084,7 @@
         "channel": "TV_4_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/6a71b27130b7ba00f6e061b3470c0972.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -1280,9 +1098,9 @@
         "channel": "TV_6_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/88b67f5051e0e889c9380219852cf3f7.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1322,9 +1140,9 @@
         "channel": "Viasat-History-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/aba99efbd87a2529e909ee152c9c0ab4.m3u8",
         "country": "africa",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1350,7 +1168,7 @@
         "channel": "Viasat_Explorer_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/6332935d6d1d3fbddd927bd280960162.m3u8",
         "country": "africa",
-        "liveliness": "42",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -1380,7 +1198,7 @@
         "country": "africa",
         "liveliness": "37",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1392,9 +1210,9 @@
         "channel": "Viasat_Film_Family_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/01ffb26668611e9692190b49c804c12a.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1406,7 +1224,7 @@
         "channel": "Viasat_Film_Premiere_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/9034a46a4435d23475774de759af8503.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -1420,9 +1238,9 @@
         "channel": "Viasat_Golf",
         "link": "https://list.iptvcat.com/my_list/s/bb370ff011d01619860f563337fbbe38.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1448,9 +1266,9 @@
         "channel": "Viasat_History",
         "link": "https://list.iptvcat.com/my_list/s/2efe355fdea721d2718a4e95a2d1ff2f.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1490,9 +1308,9 @@
         "channel": "Viasat_Motor",
         "link": "https://list.iptvcat.com/my_list/s/f514d20efa1c158f13ca5e01e69bb24a.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -1504,9 +1322,9 @@
         "channel": "Viasat_Series_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/1f05e8c8365e31edeaad06c2ae61d40d.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1518,9 +1336,9 @@
         "channel": "Viasat_Series_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/56c10ed8db18bd2db54cd3117b8cba6a.m3u8",
         "country": "africa",
-        "liveliness": "87",
+        "liveliness": "86",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1532,9 +1350,9 @@
         "channel": "Viasat_Sport_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/17657192b0caf8b0e64734e4e595e3b1.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1546,7 +1364,7 @@
         "channel": "Viasat_Sport_Premium",
         "link": "https://list.iptvcat.com/my_list/s/c93df30bba48d1ef58d7c6d94ee463c6.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -1562,7 +1380,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1576,7 +1394,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -1590,7 +1408,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1604,7 +1422,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -1619,7 +1437,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -1634,7 +1452,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1648,7 +1466,7 @@
         "country": "africa",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1662,7 +1480,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1676,7 +1494,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1690,7 +1508,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -1704,7 +1522,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1718,7 +1536,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1732,7 +1550,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1745,8 +1563,8 @@
         "link": "https://list.iptvcat.com/my_list/s/530d3b9c51315919308896477f57b0a3.m3u8",
         "country": "africa",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -1760,7 +1578,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -1774,7 +1592,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1788,7 +1606,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1802,7 +1620,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -1816,7 +1634,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1830,7 +1648,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1178, ...",
         "URI": [
@@ -1844,7 +1662,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -1856,11 +1674,11 @@
         "channel": "PRVA TV",
         "link": "https://list.iptvcat.com/my_list/s/93d2d1ca64e001480aaef101c52a720b.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "83",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -1872,7 +1690,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -1884,9 +1702,9 @@
         "channel": "C-More-First-Denemark",
         "link": "https://list.iptvcat.com/my_list/s/8065734645a3fcad38edebb78561200c.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "81",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1912,9 +1730,9 @@
         "channel": "C-More-Fotboll",
         "link": "https://list.iptvcat.com/my_list/s/e1c08575be66b44800ad9b0c40eefaa1.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "87",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1940,7 +1758,7 @@
         "channel": "C-More-Golf",
         "link": "https://list.iptvcat.com/my_list/s/783c5ed3339646bcebc628319aca1216.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -1954,9 +1772,9 @@
         "channel": "C-More-Sport",
         "link": "https://list.iptvcat.com/my_list/s/d5373877eacf1c7db39d664741b60d12.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1968,9 +1786,9 @@
         "channel": "C-More-Sport-1",
         "link": "https://list.iptvcat.com/my_list/s/c538262077483ba1da69f7ef256e28c4.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1982,9 +1800,9 @@
         "channel": "C-More-Stars-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/258c03af7d5a95afd8fe9b97d49d0d33.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1998,7 +1816,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2010,9 +1828,9 @@
         "channel": "Cartoon-Network-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/bb08b0f303375102fffcb2998ff3189e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3252",
         "URI": [
@@ -2024,9 +1842,9 @@
         "channel": "Discovery-Channel-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/6cdc1c1a120c733018072e8f054932b8.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "6983",
         "URI": [
@@ -2038,9 +1856,9 @@
         "channel": "Discovery-Science_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/d94619dd9a957bace082901f748293e9.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2066,9 +1884,9 @@
         "channel": "Disney-Channel-Norge",
         "link": "https://list.iptvcat.com/my_list/s/1f564b4ef61ab3259920a5393428a36e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2080,9 +1898,9 @@
         "channel": "Disney-Junior-Denemark-Multi-Audio",
         "link": "https://list.iptvcat.com/my_list/s/dd0fc79a7c3713b6e9662922e70eca0e.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2094,9 +1912,9 @@
         "channel": "Disney-Junior-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/abccbd555eceba360e1a787bd6cb0b97.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2122,7 +1940,7 @@
         "channel": "Disney_Channel_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/c0d580f502417efbf3f5c214c6cd2ef2.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -2136,9 +1954,9 @@
         "channel": "Eurosport-Pluss-5-HD",
         "link": "https://list.iptvcat.com/my_list/s/d18f11e8f67eae7cd84704a6f63473ab.m3u8",
         "country": "africa",
-        "liveliness": "34",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2150,9 +1968,9 @@
         "channel": "FEM",
         "link": "https://list.iptvcat.com/my_list/s/39de76db7aa6e601fa4b36aec04aa7f6.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2164,9 +1982,9 @@
         "channel": "Fox_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/c3106c7f0d5b9c4c1e9297d500b03ba5.m3u8",
         "country": "africa",
-        "liveliness": "81",
+        "liveliness": "80",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2178,9 +1996,9 @@
         "channel": "Investigation-Discovery-Denmark",
         "link": "https://list.iptvcat.com/my_list/s/9c25ba05f1cf694226246830626f773c.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
         "URI": [
@@ -2192,9 +2010,9 @@
         "channel": "Kanal_11_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/5c1ddac2c48e2951a720fec25e860e4e.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2206,9 +2024,9 @@
         "channel": "Kanal_4_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/17543cb8736114a15a6303028a50d305.m3u8",
         "country": "africa",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2220,7 +2038,7 @@
         "channel": "Kanal_5_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/acae92fe41956022a524c4aac93f17ba.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -2262,7 +2080,7 @@
         "channel": "MAX",
         "link": "https://list.iptvcat.com/my_list/s/544e413229bf6a2cf831fde957a8dc57.m3u8",
         "country": "africa",
-        "liveliness": "51",
+        "liveliness": "50",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -2276,9 +2094,9 @@
         "channel": "MTV_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/f08d9b6c1e625eee046f2e35cae2afd3.m3u8",
         "country": "africa",
-        "liveliness": "40",
+        "liveliness": "39",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1479",
         "URI": [
@@ -2290,7 +2108,7 @@
         "channel": "NRK_1",
         "link": "https://list.iptvcat.com/my_list/s/8c492daa06af9ff3287bd34c8215b5a7.m3u8",
         "country": "africa",
-        "liveliness": "59",
+        "liveliness": "58",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -2320,7 +2138,7 @@
         "country": "africa",
         "liveliness": "89",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2332,7 +2150,7 @@
         "channel": "Nick-JR_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/46e83a26ef04a0c5c4f01b2d152c5e9c.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "fhd 2k",
@@ -2346,7 +2164,7 @@
         "channel": "Nick-Jr-[Multi-Audio]",
         "link": "https://list.iptvcat.com/my_list/s/39f4fc74fc1866c1d30bfd6603ddc840.m3u8",
         "country": "africa",
-        "liveliness": "84",
+        "liveliness": "83",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "sd",
@@ -2360,9 +2178,9 @@
         "channel": "Nickelodeon_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/aeebc655eb236c29d29b3c8839da1407.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2374,9 +2192,9 @@
         "channel": "SF-Kanalen_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/7087c4302461da997e0feccfb18808d6.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2285",
         "URI": [
@@ -2388,9 +2206,9 @@
         "channel": "SVT_2",
         "link": "https://list.iptvcat.com/my_list/s/a248273a7b6d35a54d346c3a462a6548.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2402,9 +2220,9 @@
         "channel": "Sjuan_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/217ca3d012cb2992579a119c5c5e6bca.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2416,9 +2234,9 @@
         "channel": "Sportkanalen_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/fceaacffc0cc08418ec3a44476ae7260.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -2430,9 +2248,9 @@
         "channel": "TLC_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/a7ca3c5ce60f3415c18e2a6056aba905.m3u8",
         "country": "africa",
-        "liveliness": "42",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "2883",
         "URI": [
@@ -2444,9 +2262,9 @@
         "channel": "TV-2-Norge",
         "link": "https://list.iptvcat.com/my_list/s/b3206cfd77d9a92037014ac225938822.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2500,9 +2318,9 @@
         "channel": "TV2_News_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/5da6d4d5fa1a72b92e851636d15bac92.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2514,9 +2332,9 @@
         "channel": "TV2_Sport_1",
         "link": "https://list.iptvcat.com/my_list/s/50234295301a26db2572ec3b771b21ae.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2530,23 +2348,9 @@
         "country": "africa",
         "liveliness": "49",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2347766",
-        "channel": "TV3_Danmark",
-        "link": "https://list.iptvcat.com/my_list/s/4ce36e1627d929831241e36f40b695f3.m3u8",
-        "country": "africa",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa"
         ]
@@ -2558,7 +2362,7 @@
         "country": "africa",
         "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2598,9 +2402,9 @@
         "channel": "TV_10_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/907f26a9618acebebf2cc9a571e2d05b.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2654,9 +2458,9 @@
         "channel": "TV_4_Guld",
         "link": "https://list.iptvcat.com/my_list/s/11fe67c4b23245328132542bfd9943e6.m3u8",
         "country": "africa",
-        "liveliness": "91",
+        "liveliness": "90",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2668,7 +2472,7 @@
         "channel": "TV_4_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/6a71b27130b7ba00f6e061b3470c0972.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -2682,9 +2486,9 @@
         "channel": "TV_6_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/88b67f5051e0e889c9380219852cf3f7.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -2724,9 +2528,9 @@
         "channel": "Viasat-History-Sweden",
         "link": "https://list.iptvcat.com/my_list/s/aba99efbd87a2529e909ee152c9c0ab4.m3u8",
         "country": "africa",
-        "liveliness": "86",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2752,7 +2556,7 @@
         "channel": "Viasat_Explorer_Denemark",
         "link": "https://list.iptvcat.com/my_list/s/6332935d6d1d3fbddd927bd280960162.m3u8",
         "country": "africa",
-        "liveliness": "42",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
@@ -2782,7 +2586,7 @@
         "country": "africa",
         "liveliness": "37",
         "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2794,11 +2598,179 @@
         "channel": "Viasat_Film_Family_Sweden",
         "link": "https://list.iptvcat.com/my_list/s/01ffb26668611e9692190b49c804c12a.m3u8",
         "country": "africa",
-        "liveliness": "92",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347785",
+        "channel": "Viasat_Film_Premiere_Sweden",
+        "link": "https://list.iptvcat.com/my_list/s/9034a46a4435d23475774de759af8503.m3u8",
+        "country": "africa",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-03-06T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347786",
+        "channel": "Viasat_Golf",
+        "link": "https://list.iptvcat.com/my_list/s/bb370ff011d01619860f563337fbbe38.m3u8",
+        "country": "africa",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347787",
+        "channel": "Viasat_Golf_Denemark",
+        "link": "https://list.iptvcat.com/my_list/s/157092fcbfb18d42ccc81fd0f9570491.m3u8",
+        "country": "africa",
+        "liveliness": "79",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347788",
+        "channel": "Viasat_History",
+        "link": "https://list.iptvcat.com/my_list/s/2efe355fdea721d2718a4e95a2d1ff2f.m3u8",
+        "country": "africa",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347790",
+        "channel": "Viasat_Hockey",
+        "link": "https://list.iptvcat.com/my_list/s/ea7ccc97fa60423e7b110c82b0bccf66.m3u8",
+        "country": "africa",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347791",
+        "channel": "Viasat_Hockey_Denemark",
+        "link": "https://list.iptvcat.com/my_list/s/6effede690b402ee8c31ef2234cc9f7f.m3u8",
+        "country": "africa",
+        "liveliness": "69",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347792",
+        "channel": "Viasat_Motor",
+        "link": "https://list.iptvcat.com/my_list/s/f514d20efa1c158f13ca5e01e69bb24a.m3u8",
+        "country": "africa",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347794",
+        "channel": "Viasat_Series_Denemark",
+        "link": "https://list.iptvcat.com/my_list/s/1f05e8c8365e31edeaad06c2ae61d40d.m3u8",
+        "country": "africa",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347795",
+        "channel": "Viasat_Series_Sweden",
+        "link": "https://list.iptvcat.com/my_list/s/56c10ed8db18bd2db54cd3117b8cba6a.m3u8",
+        "country": "africa",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347796",
+        "channel": "Viasat_Sport_Denemark",
+        "link": "https://list.iptvcat.com/my_list/s/17657192b0caf8b0e64734e4e595e3b1.m3u8",
+        "country": "africa",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2347797",
+        "channel": "Viasat_Sport_Premium",
+        "link": "https://list.iptvcat.com/my_list/s/c93df30bba48d1ef58d7c6d94ee463c6.m3u8",
+        "country": "africa",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2022-03-06T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2510",
+        "channel": "AYV",
+        "link": "https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8",
+        "country": "africa",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-03-07T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "africa"
         ]
@@ -2810,7 +2782,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2824,7 +2796,7 @@
         "country": "africa",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -2838,7 +2810,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -2852,7 +2824,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -2866,7 +2838,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -2880,7 +2852,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2894,7 +2866,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2908,7 +2880,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2921,8 +2893,8 @@
         "link": "https://list.iptvcat.com/my_list/s/530d3b9c51315919308896477f57b0a3.m3u8",
         "country": "africa",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -2936,7 +2908,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -2950,7 +2922,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2964,7 +2936,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2978,7 +2950,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -2992,7 +2964,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3006,7 +2978,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1178, ...",
         "URI": [
@@ -3020,7 +2992,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -3034,7 +3006,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -3049,7 +3021,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -3064,7 +3036,7 @@
         "country": "africa",
         "liveliness": "91",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -3079,7 +3051,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-03-06T00:00:00Z",
+        "lastChecked": "2022-03-07T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
