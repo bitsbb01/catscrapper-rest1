@@ -148,7 +148,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -201,7 +201,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d8cd40479317d0b2f506d79546d89b0.m3u8",
         "country": "africa",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
@@ -289,7 +289,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1688",
+        "mbps": "524",
         "URI": [
             "africa_-_-_-_-_-",
             "asia"
@@ -444,7 +444,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -497,7 +497,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d8cd40479317d0b2f506d79546d89b0.m3u8",
         "country": "africa",
         "liveliness": "97",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
@@ -585,7 +585,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1688",
+        "mbps": "524",
         "URI": [
             "africa_-_-_-_-_-",
             "asia"
@@ -615,7 +615,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1688",
+        "mbps": "524",
         "URI": [
             "africa_-_-_-_-_-",
             "asia"
@@ -645,7 +645,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1688",
+        "mbps": "524",
         "URI": [
             "africa_-_-_-_-_-",
             "asia"

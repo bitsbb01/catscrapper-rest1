@@ -46,11 +46,25 @@
         "channel": "Africable",
         "link": "https://list.iptvcat.com/my_list/s/422ba3f2bd9427ba5d4981d8a1da19b8.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1",
+        "channel": "Ariana News",
+        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -70,15 +84,15 @@
         ]
     },
     {
-        "id": "1",
-        "channel": "Ariana News",
-        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "id": "132507",
+        "channel": "Ariana TV",
+        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -101,20 +115,6 @@
         "id": "2",
         "channel": "Ariana TV, Ariana TV USA",
         "link": "https://list.iptvcat.com/my_list/s/7b3753262221ee932045136fa5e7e414.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132507",
-        "channel": "Ariana TV",
-        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -158,7 +158,7 @@
         "channel": "Emmanuel TV",
         "link": "https://list.iptvcat.com/my_list/s/737154a91a2a1eff3aaeb44a6409678a.m3u8",
         "country": "asia",
-        "liveliness": "28",
+        "liveliness": "27",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -186,7 +186,7 @@
         "channel": "IL TV",
         "link": "https://list.iptvcat.com/my_list/s/150038555d18ca8b09fac3d7b7c508f5.m3u8",
         "country": "asia",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -215,10 +215,10 @@
         "link": "https://list.iptvcat.com/my_list/s/163d8a3bb2a3db6d96406f4732749d66.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -228,7 +228,7 @@
         "channel": "Loveworld Plus TV ( Nigeria )",
         "link": "https://list.iptvcat.com/my_list/s/32a3bf3e68b504e28386f1e86c8eddee.m3u8",
         "country": "asia",
-        "liveliness": "19",
+        "liveliness": "18",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -270,7 +270,7 @@
         "channel": "Mourchid TV (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/7d4dcd8f85014af087211ead1fc69a77.m3u8",
         "country": "asia",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -340,7 +340,7 @@
         "channel": "RTG ( Guiniea )",
         "link": "https://list.iptvcat.com/my_list/s/81a05ccfa432a683b3fc729e60458631.m3u8",
         "country": "asia",
-        "liveliness": "36",
+        "liveliness": "35",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -354,7 +354,7 @@
         "channel": "RTV Rwanda",
         "link": "https://list.iptvcat.com/my_list/s/4462d576b6d08c060bafdcfdbb3639d0.m3u8",
         "country": "asia",
-        "liveliness": "25",
+        "liveliness": "24",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -396,7 +396,7 @@
         "channel": "TFM (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/b14ce0be39e68db0fcf57fa9735def0c.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -410,7 +410,7 @@
         "channel": "TPA Angola",
         "link": "https://list.iptvcat.com/my_list/s/5d2050a61103a497400cfadb86729c00.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -424,7 +424,7 @@
         "channel": "UNIVERSEL SOMALI TV",
         "link": "https://list.iptvcat.com/my_list/s/5a0e11a60b92a93770dc0e06c8f98bba.m3u8",
         "country": "asia",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -438,7 +438,7 @@
         "channel": "Universal TV",
         "link": "https://list.iptvcat.com/my_list/s/4ce5598eebfef664005d8a45f4fcf0c1.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "26",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -565,7 +565,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1cca6069816eed5973cb262ce1608050.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -593,7 +593,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ba18e935b7626a136a3390eced7e3b6b.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -621,7 +621,7 @@
         "link": "https://list.iptvcat.com/my_list/s/58355816f5a124d4a6f18285d69ef47e.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -775,7 +775,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0ce83850ce76f901ff18813ce49200dd.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -901,7 +901,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37d16bea16e1fe208b861ed9c8dee86f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -999,7 +999,7 @@
         "link": "https://list.iptvcat.com/my_list/s/43345e8c1441541cc4e7b3486eaaf936.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "790",
@@ -1204,9 +1204,9 @@
         ]
     },
     {
-        "id": "20204",
+        "id": "1503",
         "channel": "VOA Persian",
-        "link": "https://list.iptvcat.com/my_list/s/8acb33bccf37b69ae2f6a6cc7e50f3f2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8e9d623d56157e4a439002e37f2cef0f.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -1218,9 +1218,9 @@
         ]
     },
     {
-        "id": "1503",
+        "id": "20204",
         "channel": "VOA Persian",
-        "link": "https://list.iptvcat.com/my_list/s/8e9d623d56157e4a439002e37f2cef0f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8acb33bccf37b69ae2f6a6cc7e50f3f2.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -1246,9 +1246,9 @@
         ]
     },
     {
-        "id": "1550",
+        "id": "132959",
         "channel": "Channel 2 News",
-        "link": "https://list.iptvcat.com/my_list/s/3bbfc9028455072a5391d6d4803ad7e0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/6f89e0c10c3a5aa289cc1e7bc1a6b838.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -1260,9 +1260,9 @@
         ]
     },
     {
-        "id": "132959",
+        "id": "1550",
         "channel": "Channel 2 News",
-        "link": "https://list.iptvcat.com/my_list/s/6f89e0c10c3a5aa289cc1e7bc1a6b838.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bbfc9028455072a5391d6d4803ad7e0.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -1320,7 +1320,7 @@
         "channel": "Fashion_TV",
         "link": "https://list.iptvcat.com/my_list/s/9efab289eb034b2c1da2b447485d39be.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -1362,7 +1362,7 @@
         "channel": "HOT_Bombay",
         "link": "https://list.iptvcat.com/my_list/s/db5dd256992880dbd037dde84b03facf.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1404,8 +1404,8 @@
         "channel": "HOT_DIY_HD_ISRAEL",
         "link": "https://list.iptvcat.com/my_list/s/134e876f3929c25bcd9d1bd68a037b0b.m3u8",
         "country": "asia",
-        "liveliness": "94",
-        "status": "offline",
+        "liveliness": "95",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
@@ -1419,7 +1419,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b92af43cffe9e2bad2b3c7e40f167bfc.m3u8",
         "country": "asia",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1432,7 +1432,7 @@
         "channel": "HOT_Entertainment",
         "link": "https://list.iptvcat.com/my_list/s/753ee0b9675f6b091ce508cd4db9ba99.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1531,7 +1531,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2c9f395cc0c8c110b5d5a96fd8d73b2e.m3u8",
         "country": "asia",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1544,7 +1544,7 @@
         "channel": "HOT_Teen_nick",
         "link": "https://list.iptvcat.com/my_list/s/69422e8a067916b0e6304a642aa977c1.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -1684,7 +1684,7 @@
         "channel": "ISRAEL_Channel_12_Keshet",
         "link": "https://list.iptvcat.com/my_list/s/03ea11fcb583e2d64ca494e4fbcb709f.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1712,11 +1712,11 @@
         "channel": "ISRAEL_Channel_2_News",
         "link": "https://list.iptvcat.com/my_list/s/9e53b042fda1ddf7a07b546a8ad56704.m3u8",
         "country": "asia",
-        "liveliness": "78",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1726,8 +1726,8 @@
         "channel": "KESHET_12_HQ",
         "link": "https://list.iptvcat.com/my_list/s/7edca6b8fb953daf60f5028e362cef36.m3u8",
         "country": "asia",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -1764,20 +1764,6 @@
         ]
     },
     {
-        "id": "1558",
-        "channel": "Kabbalah for the People (Israel)",
-        "link": "https://list.iptvcat.com/my_list/s/e41fd5affe3907eb62bf43a68cc68da6.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2529",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132963",
         "channel": "Kabbalah for the People (Israel)",
         "link": "https://list.iptvcat.com/my_list/s/a470b1c2658d6004aa22af010078c220.m3u8",
@@ -1801,6 +1787,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1558",
+        "channel": "Kabbalah for the People (Israel)",
+        "link": "https://list.iptvcat.com/my_list/s/e41fd5affe3907eb62bf43a68cc68da6.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2529",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1908,7 +1908,7 @@
         "channel": "ONE_II",
         "link": "https://list.iptvcat.com/my_list/s/9792699d7ca623bcfa6c988be3b9bab7.m3u8",
         "country": "asia",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -1950,7 +1950,7 @@
         "channel": "TURKISH DRAMA 2",
         "link": "https://list.iptvcat.com/my_list/s/711cbb8c40dbfd9a1017342ab1fe6827.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -1978,8 +1978,8 @@
         "channel": "YES MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4873f51da2a3a1ef213926d397677c4b.m3u8",
         "country": "asia",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -1992,7 +1992,7 @@
         "channel": "YES MOVIES COMEDY",
         "link": "https://list.iptvcat.com/my_list/s/eb5e82b084daa50d51a555496d17fff7.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -2006,7 +2006,7 @@
         "channel": "YES MOVIES DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/00657cf3a567e8f9a7f95c148675e68d.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -2062,7 +2062,7 @@
         "channel": "YES TV COMEDY",
         "link": "https://list.iptvcat.com/my_list/s/6170581f722b645e6839cd48e211d084.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -2090,8 +2090,8 @@
         "channel": "YES_CBS",
         "link": "https://list.iptvcat.com/my_list/s/b37a652f89de6521ff62242b5fb02b93.m3u8",
         "country": "asia",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "92",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2189,7 +2189,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c47c831d5bbeb74226e5173063c3d752.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -2217,7 +2217,7 @@
         "link": "https://list.iptvcat.com/my_list/s/19c1d82dc57ec1f07f52452d9e78d3d6.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -2301,7 +2301,7 @@
         "link": "https://list.iptvcat.com/my_list/s/842466d716175da106047aef55f6f785.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -2486,7 +2486,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "2334, ...",
+        "mbps": "2334",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2562,20 +2562,6 @@
         ]
     },
     {
-        "id": "4125",
-        "channel": "CGTN Documentary",
-        "link": "https://list.iptvcat.com/my_list/s/750309b4dcf038b8d28e746f6e5b6ad2.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "4124",
         "channel": "CGTN Documentary",
         "link": "https://list.iptvcat.com/my_list/s/b06cdd1fa0205d538cba915de935f931.m3u8",
@@ -2585,6 +2571,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "4125",
+        "channel": "CGTN Documentary",
+        "link": "https://list.iptvcat.com/my_list/s/750309b4dcf038b8d28e746f6e5b6ad2.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2692,11 +2692,11 @@
         "channel": "东至影视频道",
         "link": "https://list.iptvcat.com/my_list/s/29c3321dd6de1778c34693391e81469d.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1783",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2875,7 +2875,7 @@
         "link": "https://list.iptvcat.com/my_list/s/faf25339feaca56d0322be989533d0b8.m3u8",
         "country": "asia",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "708",
@@ -2906,7 +2906,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "5860",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -2962,7 +2962,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3220,20 +3220,6 @@
         ]
     },
     {
-        "id": "4915",
-        "channel": "江津文化旅游",
-        "link": "https://list.iptvcat.com/my_list/s/408e3ffa5d33872849207616e4e75223.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "4916",
         "channel": "江津文化旅游",
         "link": "https://list.iptvcat.com/my_list/s/e2e69ff8233c539faa5fd8f38c340678.m3u8",
@@ -3248,15 +3234,15 @@
         ]
     },
     {
-        "id": "4917",
-        "channel": "江津新闻综合",
-        "link": "https://list.iptvcat.com/my_list/s/7a68156c2ab23a110880b1cca1b915b4.m3u8",
+        "id": "4915",
+        "channel": "江津文化旅游",
+        "link": "https://list.iptvcat.com/my_list/s/408e3ffa5d33872849207616e4e75223.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1408",
+        "mbps": "1509",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3267,6 +3253,20 @@
         "link": "https://list.iptvcat.com/my_list/s/1446376556f8aa5a370ac5b6f31958ae.m3u8",
         "country": "asia",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1408",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "4917",
+        "channel": "江津新闻综合",
+        "link": "https://list.iptvcat.com/my_list/s/7a68156c2ab23a110880b1cca1b915b4.m3u8",
+        "country": "asia",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -3452,7 +3452,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "746",
+        "mbps": "2334",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3505,7 +3505,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a9bf4c99fc039076ce7f016ed654c0c0.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "390",
@@ -3592,7 +3592,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11161",
+        "mbps": "10941",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3746,7 +3746,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5991, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3787,8 +3787,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1153",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -3939,7 +3939,7 @@
         "link": "https://list.iptvcat.com/my_list/s/77bf3696ff7044f37cb8ca1e27074e0d.m3u8",
         "country": "asia",
         "liveliness": "42",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
@@ -3962,9 +3962,9 @@
         ]
     },
     {
-        "id": "7631",
+        "id": "1069",
         "channel": "ABP Asmita",
-        "link": "https://list.iptvcat.com/my_list/s/529521acac7ee45de886abf1850d6bbe.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/72bd8918671becf7f319b5d6d808c65b.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -3990,9 +3990,9 @@
         ]
     },
     {
-        "id": "1069",
+        "id": "7631",
         "channel": "ABP Asmita",
-        "link": "https://list.iptvcat.com/my_list/s/72bd8918671becf7f319b5d6d808c65b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/529521acac7ee45de886abf1850d6bbe.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -4011,8 +4011,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "354",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4079,7 +4079,7 @@
         "link": "https://list.iptvcat.com/my_list/s/68b351b92cd183b93bc12cece93f088e.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1290",
@@ -4176,7 +4176,7 @@
         "channel": "BOISHAKHI TV",
         "link": "https://list.iptvcat.com/my_list/s/d4c405dd16930b870460f3b645cf6a41.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -4190,8 +4190,8 @@
         "channel": "BanglaVision",
         "link": "https://list.iptvcat.com/my_list/s/eea11c767ef16ad349bfd747c0e43f16.m3u8",
         "country": "asia",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4218,8 +4218,8 @@
         "channel": "CHARDIKLA TIME TV",
         "link": "https://list.iptvcat.com/my_list/s/752ff69b4e94cca69efc73ab0529a4e4.m3u8",
         "country": "asia",
-        "liveliness": "53",
-        "status": "online",
+        "liveliness": "50",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -4260,7 +4260,7 @@
         "channel": "Channel I",
         "link": "https://list.iptvcat.com/my_list/s/d2255665dd06288eb2de496b3dc93446.m3u8",
         "country": "asia",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -4368,9 +4368,9 @@
         ]
     },
     {
-        "id": "7632",
+        "id": "132907",
         "channel": "Desi Channel",
-        "link": "https://list.iptvcat.com/my_list/s/bf837a7e6385f0e04e4c40ee4a650312.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/cbc9a96300ee0dc9f5b959cf47dd4cbc.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -4396,9 +4396,9 @@
         ]
     },
     {
-        "id": "132907",
+        "id": "7632",
         "channel": "Desi Channel",
-        "link": "https://list.iptvcat.com/my_list/s/cbc9a96300ee0dc9f5b959cf47dd4cbc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bf837a7e6385f0e04e4c40ee4a650312.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -4428,11 +4428,25 @@
         "channel": "Dhoom Music",
         "link": "https://list.iptvcat.com/my_list/s/297f27f0540fbaa96eeb57e4a1dbb145.m3u8",
         "country": "asia",
-        "liveliness": "35",
-        "status": "offline",
+        "liveliness": "36",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1139",
+        "channel": "ET Now",
+        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4447,20 +4461,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1139",
-        "channel": "ET Now",
-        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4512,8 +4512,8 @@
         "channel": "Hamdard TV Punjabi",
         "link": "https://list.iptvcat.com/my_list/s/355e2b383ddcc61110241720bb7ebb30.m3u8",
         "country": "asia",
-        "liveliness": "48",
-        "status": "offline",
+        "liveliness": "49",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -4522,9 +4522,9 @@
         ]
     },
     {
-        "id": "132911",
+        "id": "1146",
         "channel": "Harvest TV USA",
-        "link": "https://list.iptvcat.com/my_list/s/4ef510c3eaa7950d286c171a46bccd0f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e006f1514d47bd83b522a57a1935922f.m3u8",
         "country": "asia",
         "liveliness": "97",
         "status": "online",
@@ -4536,9 +4536,9 @@
         ]
     },
     {
-        "id": "1146",
+        "id": "132911",
         "channel": "Harvest TV USA",
-        "link": "https://list.iptvcat.com/my_list/s/e006f1514d47bd83b522a57a1935922f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4ef510c3eaa7950d286c171a46bccd0f.m3u8",
         "country": "asia",
         "liveliness": "97",
         "status": "online",
@@ -4620,20 +4620,6 @@
         ]
     },
     {
-        "id": "1159",
-        "channel": "Janam TV",
-        "link": "https://list.iptvcat.com/my_list/s/f17366fd55deed07e4a53f3c2a8b7abc.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "523",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132912",
         "channel": "Janam TV",
         "link": "https://list.iptvcat.com/my_list/s/b990a3c1881fd0ad6a8eb00356d0979d.m3u8",
@@ -4648,15 +4634,15 @@
         ]
     },
     {
-        "id": "1161",
-        "channel": "Janta TV",
-        "link": "https://list.iptvcat.com/my_list/s/f82a17f0dbfffa45e88438084114fc61.m3u8",
+        "id": "1159",
+        "channel": "Janam TV",
+        "link": "https://list.iptvcat.com/my_list/s/f17366fd55deed07e4a53f3c2a8b7abc.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "523",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -4667,6 +4653,20 @@
         "link": "https://list.iptvcat.com/my_list/s/b136da8cc7bc3159bc6558acf957e9bb.m3u8",
         "country": "asia",
         "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1161",
+        "channel": "Janta TV",
+        "link": "https://list.iptvcat.com/my_list/s/f82a17f0dbfffa45e88438084114fc61.m3u8",
+        "country": "asia",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -4723,7 +4723,7 @@
         "link": "https://list.iptvcat.com/my_list/s/17746af0dd099aa7969fccd3781882e3.m3u8",
         "country": "asia",
         "liveliness": "36",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -4932,8 +4932,8 @@
         "channel": "NEWS 7 Tamil",
         "link": "https://list.iptvcat.com/my_list/s/804bd4de4c208783f363e0f9441b58fa.m3u8",
         "country": "asia",
-        "liveliness": "37",
-        "status": "offline",
+        "liveliness": "39",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1613",
@@ -5143,7 +5143,7 @@
         "link": "https://list.iptvcat.com/my_list/s/08ddac244dafa62482c11d5991d2b1d2.m3u8",
         "country": "asia",
         "liveliness": "47",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1685",
@@ -5156,8 +5156,8 @@
         "channel": "PRIME ASIA",
         "link": "https://list.iptvcat.com/my_list/s/850ac30865ae4fdd9b1d0030a3cbecdb.m3u8",
         "country": "asia",
-        "liveliness": "38",
-        "status": "offline",
+        "liveliness": "40",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -5269,7 +5269,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c887c30cdc5b3bb77550e3ba306c9677.m3u8",
         "country": "asia",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -5327,8 +5327,8 @@
         "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5352,8 +5352,8 @@
         "channel": "Star Gold",
         "link": "https://list.iptvcat.com/my_list/s/a4c1d622e861c955113cb3375bf38158.m3u8",
         "country": "asia",
-        "liveliness": "34",
-        "status": "online",
+        "liveliness": "33",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
@@ -5390,11 +5390,11 @@
         ]
     },
     {
-        "id": "132927",
+        "id": "1234",
         "channel": "Suvarna News 24×7",
-        "link": "https://list.iptvcat.com/my_list/s/e6973f7aaeebf68524a01b1c13043ee0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/15e37bd354191810bcd256621a53fd4d.m3u8",
         "country": "asia",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -5404,11 +5404,11 @@
         ]
     },
     {
-        "id": "1234",
+        "id": "132927",
         "channel": "Suvarna News 24×7",
-        "link": "https://list.iptvcat.com/my_list/s/15e37bd354191810bcd256621a53fd4d.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e6973f7aaeebf68524a01b1c13043ee0.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -5446,6 +5446,20 @@
         ]
     },
     {
+        "id": "1240",
+        "channel": "Thanthi TV",
+        "link": "https://list.iptvcat.com/my_list/s/d123430bf7a7a6e16a14dfe3f4947bb8.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "132928",
         "channel": "Thanthi TV",
         "link": "https://list.iptvcat.com/my_list/s/533c19812875498bde8139d0001b5174.m3u8",
@@ -5474,20 +5488,6 @@
         ]
     },
     {
-        "id": "1240",
-        "channel": "Thanthi TV",
-        "link": "https://list.iptvcat.com/my_list/s/d123430bf7a7a6e16a14dfe3f4947bb8.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "1244",
         "channel": "Times Now HD",
         "link": "https://list.iptvcat.com/my_list/s/42c08f54fe8a7b8d9f1b9c1135d443b0.m3u8",
@@ -5506,8 +5506,8 @@
         "channel": "Travel xp HD",
         "link": "https://list.iptvcat.com/my_list/s/b844ed568ac339fa94efbacd4a14adc4.m3u8",
         "country": "asia",
-        "liveliness": "41",
-        "status": "online",
+        "liveliness": "40",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
@@ -5524,7 +5524,7 @@
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3795",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5562,7 +5562,7 @@
         "channel": "Zee Action",
         "link": "https://list.iptvcat.com/my_list/s/62fa4305dcd7ecac967567d87e196528.m3u8",
         "country": "asia",
-        "liveliness": "55",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -5604,7 +5604,7 @@
         "channel": "Zee Cinema HD",
         "link": "https://list.iptvcat.com/my_list/s/497d0e3d2e512e9bf0c835caeab34b75.m3u8",
         "country": "asia",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -5622,7 +5622,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "11126",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5632,7 +5632,7 @@
         "channel": "Zee Talkies",
         "link": "https://list.iptvcat.com/my_list/s/9a15aeb03de50c2b60da6c5d442b70ae.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "28",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -5651,34 +5651,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "24636",
-        "channel": "BeritaSatu",
-        "link": "https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1270",
-        "channel": "BeritaSatu",
-        "link": "https://list.iptvcat.com/my_list/s/de5781935c99e31ac37568bf47d07abd.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5712,6 +5684,34 @@
         ]
     },
     {
+        "id": "24636",
+        "channel": "BeritaSatu",
+        "link": "https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1270",
+        "channel": "BeritaSatu",
+        "link": "https://list.iptvcat.com/my_list/s/de5781935c99e31ac37568bf47d07abd.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2517",
         "channel": "Channel NewsAsia, CNA HD",
         "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
@@ -5731,20 +5731,6 @@
         "link": "https://list.iptvcat.com/my_list/s/040186469f0ca5f9810c0e9117d67450.m3u8",
         "country": "asia",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "13750",
-        "channel": "CNBC Indonesia",
-        "link": "https://list.iptvcat.com/my_list/s/83095997d0d01603fdc9a2419c6d4366.m3u8",
-        "country": "asia",
-        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -5759,6 +5745,20 @@
         "link": "https://list.iptvcat.com/my_list/s/4c9437386126d4c8e905a9132a0401eb.m3u8",
         "country": "asia",
         "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "13750",
+        "channel": "CNBC Indonesia",
+        "link": "https://list.iptvcat.com/my_list/s/83095997d0d01603fdc9a2419c6d4366.m3u8",
+        "country": "asia",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -6011,7 +6011,7 @@
         "link": "https://list.iptvcat.com/my_list/s/437f41de9205240fee3b20c0d73369ec.m3u8",
         "country": "asia",
         "liveliness": "57",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -6025,7 +6025,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb3b40d96a03952a5d1e0f416150b2a7.m3u8",
         "country": "asia",
         "liveliness": "52",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -6151,7 +6151,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8ca2e018f124c9bf65b8ffae0605296a.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -6202,20 +6202,6 @@
         ]
     },
     {
-        "id": "20199",
-        "channel": "Mihan TV, Mihan TV (US)",
-        "link": "https://list.iptvcat.com/my_list/s/86e68db5c9eea2dcad6edad41212468d.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132948",
         "channel": "Mihan TV",
         "link": "https://list.iptvcat.com/my_list/s/ac02371ed6d0796e095683cd459693f3.m3u8",
@@ -6230,9 +6216,23 @@
         ]
     },
     {
-        "id": "1485",
+        "id": "20199",
+        "channel": "Mihan TV, Mihan TV (US)",
+        "link": "https://list.iptvcat.com/my_list/s/86e68db5c9eea2dcad6edad41212468d.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1486",
         "channel": "Mohabat TV",
-        "link": "https://list.iptvcat.com/my_list/s/baab4563e67cd9358c2ace489fcfa35a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/35bc867aaeeb00192730048339521d41.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -6244,9 +6244,9 @@
         ]
     },
     {
-        "id": "1486",
+        "id": "1485",
         "channel": "Mohabat TV",
-        "link": "https://list.iptvcat.com/my_list/s/35bc867aaeeb00192730048339521d41.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/baab4563e67cd9358c2ace489fcfa35a.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -6272,25 +6272,11 @@
         ]
     },
     {
-        "id": "2575",
+        "id": "2576",
         "channel": "CBS",
-        "link": "https://list.iptvcat.com/my_list/s/9a677286cd20349556dcff3ab0d60f30.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/5b24ac8ed19990fdf800d7b9c5dc4309.m3u8",
         "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2574",
-        "channel": "CBS",
-        "link": "https://list.iptvcat.com/my_list/s/b0959cf32c94910b0faa8fc9d44a43da.m3u8",
-        "country": "asia",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -6431,7 +6417,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2eb645d2657def0e5f2bfe76f0d4c890.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -6678,6 +6664,34 @@
         ]
     },
     {
+        "id": "133435",
+        "channel": "Thai PBS 3",
+        "link": "https://list.iptvcat.com/my_list/s/015f7a4208b24b4e2838cc90c2b10f02.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "133436",
+        "channel": "Thai PBS 3",
+        "link": "https://list.iptvcat.com/my_list/s/4805f3494477871b001d3698f6f269be.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2883",
         "channel": "Thai PBS 3",
         "link": "https://list.iptvcat.com/my_list/s/be03e4693bc311ba7d6e958693a11bc8.m3u8",
@@ -6686,7 +6700,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "330",
+        "mbps": "2308, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6729,34 +6743,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "133435",
-        "channel": "Thai PBS 3",
-        "link": "https://list.iptvcat.com/my_list/s/015f7a4208b24b4e2838cc90c2b10f02.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "205",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "133436",
-        "channel": "Thai PBS 3",
-        "link": "https://list.iptvcat.com/my_list/s/4805f3494477871b001d3698f6f269be.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -6860,6 +6846,20 @@
         ]
     },
     {
+        "id": "2984",
+        "channel": "Türkmenistan Sport",
+        "link": "https://list.iptvcat.com/my_list/s/8f34177a0d531dec4ff0952f03f79bd2.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2982",
         "channel": "Türkmenistan Sport",
         "link": "https://list.iptvcat.com/my_list/s/b6a8510adb709f91ec4c6ea33f9c8ce6.m3u8",
@@ -6891,20 +6891,6 @@
         "id": "2983",
         "channel": "Türkmenistan Sport",
         "link": "https://list.iptvcat.com/my_list/s/535b5a105d66b8050bde0a71c895163b.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1685",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2984",
-        "channel": "Türkmenistan Sport",
-        "link": "https://list.iptvcat.com/my_list/s/8f34177a0d531dec4ff0952f03f79bd2.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -7033,7 +7019,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
@@ -7140,9 +7126,9 @@
         ]
     },
     {
-        "id": "2123",
+        "id": "133078",
         "channel": "92 News",
-        "link": "https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/04470953b71f6e7fb60edc99020f5b54.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -7154,9 +7140,9 @@
         ]
     },
     {
-        "id": "133078",
+        "id": "2123",
         "channel": "92 News",
-        "link": "https://list.iptvcat.com/my_list/s/04470953b71f6e7fb60edc99020f5b54.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -7182,11 +7168,11 @@
         ]
     },
     {
-        "id": "133083",
+        "id": "2127",
         "channel": "AVT KHYBER",
-        "link": "https://list.iptvcat.com/my_list/s/502a3c314982a6e0ca0d86bd46dad418.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1d92da03a4a19206070d7a5efe2a162a.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -7196,11 +7182,11 @@
         ]
     },
     {
-        "id": "2127",
+        "id": "133083",
         "channel": "AVT KHYBER",
-        "link": "https://list.iptvcat.com/my_list/s/1d92da03a4a19206070d7a5efe2a162a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/502a3c314982a6e0ca0d86bd46dad418.m3u8",
         "country": "asia",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -7224,9 +7210,9 @@
         ]
     },
     {
-        "id": "133089",
+        "id": "2129",
         "channel": "Dunya News",
-        "link": "https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/490595f991666521304710c35654b77e.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -7238,9 +7224,9 @@
         ]
     },
     {
-        "id": "2129",
+        "id": "133089",
         "channel": "Dunya News",
-        "link": "https://list.iptvcat.com/my_list/s/490595f991666521304710c35654b77e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -7504,11 +7490,25 @@
         ]
     },
     {
-        "id": "2576",
+        "id": "2575",
         "channel": "CBS",
-        "link": "https://list.iptvcat.com/my_list/s/5b24ac8ed19990fdf800d7b9c5dc4309.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/9a677286cd20349556dcff3ab0d60f30.m3u8",
         "country": "asia",
-        "liveliness": "100",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
+        "id": "2574",
+        "channel": "CBS",
+        "link": "https://list.iptvcat.com/my_list/s/b0959cf32c94910b0faa8fc9d44a43da.m3u8",
+        "country": "asia",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -7620,7 +7620,7 @@
         "channel": "YES_Home_Plus",
         "link": "https://list.iptvcat.com/my_list/s/bb3cd35ba296bf9cb55d84800767045d.m3u8",
         "country": "asia",
-        "liveliness": "71",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -7662,7 +7662,7 @@
         "channel": "YES_National_Geographic_HD",
         "link": "https://list.iptvcat.com/my_list/s/be72127920e7c7ab5b3f3151a244c788.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -7746,7 +7746,7 @@
         "channel": "YES_SPORT_3_HQ",
         "link": "https://list.iptvcat.com/my_list/s/ac607ca773815b0dd38475f5167ecfea.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -7774,7 +7774,7 @@
         "channel": "YES_SPORT_ONE_HQ",
         "link": "https://list.iptvcat.com/my_list/s/1b5554d925b54b861e7bc338a01ce425.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -7844,8 +7844,8 @@
         "channel": "YES_Sport_5_Stars",
         "link": "https://list.iptvcat.com/my_list/s/092928903141dbc0f52d1226e9452045.m3u8",
         "country": "asia",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -7994,20 +7994,6 @@
         ]
     },
     {
-        "id": "132965",
-        "channel": "Ynet Live",
-        "link": "https://list.iptvcat.com/my_list/s/dc245d08fc6ac69f4e1942ad339c86b0.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "2410590",
         "channel": "bollywood_hd",
         "link": "https://list.iptvcat.com/my_list/s/d7ffe4b5f7b8a0bca6414c7f36423946.m3u8",
@@ -8026,7 +8012,7 @@
         "channel": "yes_extreme",
         "link": "https://list.iptvcat.com/my_list/s/1f7d96215b1c8f88f6ab4beb39a827a2.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -8125,10 +8111,10 @@
         "link": "https://list.iptvcat.com/my_list/s/f9cc988de2ffab43eafe9a484db6fae0.m3u8",
         "country": "asia",
         "liveliness": "100",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3799",
         "URI": [
             "asia"
         ]
@@ -8190,20 +8176,6 @@
         ]
     },
     {
-        "id": "693936",
-        "channel": "Tokyo MX1",
-        "link": "https://list.iptvcat.com/my_list/s/4c6ef7a03f30a2f3b877b80d8c9bc1c5.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "24668",
         "channel": "Tokyo MX1",
         "link": "https://list.iptvcat.com/my_list/s/246c4f374f575b78ae912cb7f21e5d21.m3u8",
@@ -8213,6 +8185,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
+        "id": "693936",
+        "channel": "Tokyo MX1",
+        "link": "https://list.iptvcat.com/my_list/s/4c6ef7a03f30a2f3b877b80d8c9bc1c5.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia"
         ]
@@ -8246,12 +8232,12 @@
         ]
     },
     {
-        "id": "24670",
+        "id": "132994",
         "channel": "Weather News",
-        "link": "https://list.iptvcat.com/my_list/s/e5c24c042cd248a8ac8c362c875a2a6b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/557bf80222b2396ae31ee101aea5491c.m3u8",
         "country": "asia",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "73",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
@@ -8260,11 +8246,11 @@
         ]
     },
     {
-        "id": "132994",
+        "id": "24670",
         "channel": "Weather News",
-        "link": "https://list.iptvcat.com/my_list/s/557bf80222b2396ae31ee101aea5491c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e5c24c042cd248a8ac8c362c875a2a6b.m3u8",
         "country": "asia",
-        "liveliness": "73",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -8554,9 +8540,9 @@
         ]
     },
     {
-        "id": "2123",
+        "id": "133078",
         "channel": "92 News",
-        "link": "https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/04470953b71f6e7fb60edc99020f5b54.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -8568,9 +8554,9 @@
         ]
     },
     {
-        "id": "133078",
+        "id": "2123",
         "channel": "92 News",
-        "link": "https://list.iptvcat.com/my_list/s/04470953b71f6e7fb60edc99020f5b54.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/7d0fdbea6dc6c5a72e45b8756a95b713.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -8596,11 +8582,11 @@
         ]
     },
     {
-        "id": "133083",
+        "id": "2127",
         "channel": "AVT KHYBER",
-        "link": "https://list.iptvcat.com/my_list/s/502a3c314982a6e0ca0d86bd46dad418.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1d92da03a4a19206070d7a5efe2a162a.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -8610,11 +8596,11 @@
         ]
     },
     {
-        "id": "2127",
+        "id": "133083",
         "channel": "AVT KHYBER",
-        "link": "https://list.iptvcat.com/my_list/s/1d92da03a4a19206070d7a5efe2a162a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/502a3c314982a6e0ca0d86bd46dad418.m3u8",
         "country": "asia",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -8638,9 +8624,9 @@
         ]
     },
     {
-        "id": "133089",
+        "id": "2129",
         "channel": "Dunya News",
-        "link": "https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/490595f991666521304710c35654b77e.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -8652,9 +8638,9 @@
         ]
     },
     {
-        "id": "2129",
+        "id": "133089",
         "channel": "Dunya News",
-        "link": "https://list.iptvcat.com/my_list/s/490595f991666521304710c35654b77e.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2ff4c8d39f836257529ccc968c4f3f76.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -8918,20 +8904,6 @@
         ]
     },
     {
-        "id": "2576",
-        "channel": "CBS",
-        "link": "https://list.iptvcat.com/my_list/s/5b24ac8ed19990fdf800d7b9c5dc4309.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "2575",
         "channel": "CBS",
         "link": "https://list.iptvcat.com/my_list/s/9a677286cd20349556dcff3ab0d60f30.m3u8",
@@ -8942,7 +8914,7 @@
         "format": "fhd 2k",
         "mbps": "13324",
         "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -8951,6 +8923,20 @@
         "link": "https://list.iptvcat.com/my_list/s/b0959cf32c94910b0faa8fc9d44a43da.m3u8",
         "country": "asia",
         "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
+        "id": "2576",
+        "channel": "CBS",
+        "link": "https://list.iptvcat.com/my_list/s/5b24ac8ed19990fdf800d7b9c5dc4309.m3u8",
+        "country": "asia",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -9091,7 +9077,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2eb645d2657def0e5f2bfe76f0d4c890.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -9338,6 +9324,34 @@
         ]
     },
     {
+        "id": "133435",
+        "channel": "Thai PBS 3",
+        "link": "https://list.iptvcat.com/my_list/s/015f7a4208b24b4e2838cc90c2b10f02.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "7986, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "133436",
+        "channel": "Thai PBS 3",
+        "link": "https://list.iptvcat.com/my_list/s/4805f3494477871b001d3698f6f269be.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2883",
         "channel": "Thai PBS 3",
         "link": "https://list.iptvcat.com/my_list/s/be03e4693bc311ba7d6e958693a11bc8.m3u8",
@@ -9346,7 +9360,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "330",
+        "mbps": "2308, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9389,34 +9403,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "133435",
-        "channel": "Thai PBS 3",
-        "link": "https://list.iptvcat.com/my_list/s/015f7a4208b24b4e2838cc90c2b10f02.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "205",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "133436",
-        "channel": "Thai PBS 3",
-        "link": "https://list.iptvcat.com/my_list/s/4805f3494477871b001d3698f6f269be.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9520,6 +9506,20 @@
         ]
     },
     {
+        "id": "2984",
+        "channel": "Türkmenistan Sport",
+        "link": "https://list.iptvcat.com/my_list/s/8f34177a0d531dec4ff0952f03f79bd2.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2982",
         "channel": "Türkmenistan Sport",
         "link": "https://list.iptvcat.com/my_list/s/b6a8510adb709f91ec4c6ea33f9c8ce6.m3u8",
@@ -9551,20 +9551,6 @@
         "id": "2983",
         "channel": "Türkmenistan Sport",
         "link": "https://list.iptvcat.com/my_list/s/535b5a105d66b8050bde0a71c895163b.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1685",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2984",
-        "channel": "Türkmenistan Sport",
-        "link": "https://list.iptvcat.com/my_list/s/8f34177a0d531dec4ff0952f03f79bd2.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -9693,7 +9679,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
@@ -9762,11 +9748,25 @@
         "channel": "Africable",
         "link": "https://list.iptvcat.com/my_list/s/422ba3f2bd9427ba5d4981d8a1da19b8.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1",
+        "channel": "Ariana News",
+        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9786,15 +9786,15 @@
         ]
     },
     {
-        "id": "1",
-        "channel": "Ariana News",
-        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "id": "132507",
+        "channel": "Ariana TV",
+        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9817,20 +9817,6 @@
         "id": "2",
         "channel": "Ariana TV, Ariana TV USA",
         "link": "https://list.iptvcat.com/my_list/s/7b3753262221ee932045136fa5e7e414.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132507",
-        "channel": "Ariana TV",
-        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -9874,7 +9860,7 @@
         "channel": "Emmanuel TV",
         "link": "https://list.iptvcat.com/my_list/s/737154a91a2a1eff3aaeb44a6409678a.m3u8",
         "country": "asia",
-        "liveliness": "28",
+        "liveliness": "27",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -9902,7 +9888,7 @@
         "channel": "IL TV",
         "link": "https://list.iptvcat.com/my_list/s/150038555d18ca8b09fac3d7b7c508f5.m3u8",
         "country": "asia",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -9931,10 +9917,10 @@
         "link": "https://list.iptvcat.com/my_list/s/163d8a3bb2a3db6d96406f4732749d66.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9944,7 +9930,7 @@
         "channel": "Loveworld Plus TV ( Nigeria )",
         "link": "https://list.iptvcat.com/my_list/s/32a3bf3e68b504e28386f1e86c8eddee.m3u8",
         "country": "asia",
-        "liveliness": "19",
+        "liveliness": "18",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -9986,7 +9972,7 @@
         "channel": "Mourchid TV (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/7d4dcd8f85014af087211ead1fc69a77.m3u8",
         "country": "asia",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -10056,7 +10042,7 @@
         "channel": "RTG ( Guiniea )",
         "link": "https://list.iptvcat.com/my_list/s/81a05ccfa432a683b3fc729e60458631.m3u8",
         "country": "asia",
-        "liveliness": "36",
+        "liveliness": "35",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -10070,7 +10056,7 @@
         "channel": "RTV Rwanda",
         "link": "https://list.iptvcat.com/my_list/s/4462d576b6d08c060bafdcfdbb3639d0.m3u8",
         "country": "asia",
-        "liveliness": "25",
+        "liveliness": "24",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -10112,7 +10098,7 @@
         "channel": "TFM (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/b14ce0be39e68db0fcf57fa9735def0c.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -10126,7 +10112,7 @@
         "channel": "TPA Angola",
         "link": "https://list.iptvcat.com/my_list/s/5d2050a61103a497400cfadb86729c00.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -10140,7 +10126,7 @@
         "channel": "UNIVERSEL SOMALI TV",
         "link": "https://list.iptvcat.com/my_list/s/5a0e11a60b92a93770dc0e06c8f98bba.m3u8",
         "country": "asia",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -10154,7 +10140,7 @@
         "channel": "Universal TV",
         "link": "https://list.iptvcat.com/my_list/s/4ce5598eebfef664005d8a45f4fcf0c1.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "26",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -10281,7 +10267,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1cca6069816eed5973cb262ce1608050.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -10309,7 +10295,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ba18e935b7626a136a3390eced7e3b6b.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -10337,7 +10323,7 @@
         "link": "https://list.iptvcat.com/my_list/s/58355816f5a124d4a6f18285d69ef47e.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -10491,7 +10477,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0ce83850ce76f901ff18813ce49200dd.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -10617,7 +10603,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37d16bea16e1fe208b861ed9c8dee86f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -10715,7 +10701,7 @@
         "link": "https://list.iptvcat.com/my_list/s/43345e8c1441541cc4e7b3486eaaf936.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "790",
@@ -10826,7 +10812,7 @@
         "channel": "YES_Home_Plus",
         "link": "https://list.iptvcat.com/my_list/s/bb3cd35ba296bf9cb55d84800767045d.m3u8",
         "country": "asia",
-        "liveliness": "71",
+        "liveliness": "73",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -10868,7 +10854,7 @@
         "channel": "YES_National_Geographic_HD",
         "link": "https://list.iptvcat.com/my_list/s/be72127920e7c7ab5b3f3151a244c788.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -10952,7 +10938,7 @@
         "channel": "YES_SPORT_3_HQ",
         "link": "https://list.iptvcat.com/my_list/s/ac607ca773815b0dd38475f5167ecfea.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -10980,7 +10966,7 @@
         "channel": "YES_SPORT_ONE_HQ",
         "link": "https://list.iptvcat.com/my_list/s/1b5554d925b54b861e7bc338a01ce425.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -11050,8 +11036,8 @@
         "channel": "YES_Sport_5_Stars",
         "link": "https://list.iptvcat.com/my_list/s/092928903141dbc0f52d1226e9452045.m3u8",
         "country": "asia",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -11200,20 +11186,6 @@
         ]
     },
     {
-        "id": "132965",
-        "channel": "Ynet Live",
-        "link": "https://list.iptvcat.com/my_list/s/dc245d08fc6ac69f4e1942ad339c86b0.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "2410590",
         "channel": "bollywood_hd",
         "link": "https://list.iptvcat.com/my_list/s/d7ffe4b5f7b8a0bca6414c7f36423946.m3u8",
@@ -11232,7 +11204,7 @@
         "channel": "yes_extreme",
         "link": "https://list.iptvcat.com/my_list/s/1f7d96215b1c8f88f6ab4beb39a827a2.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -11331,10 +11303,10 @@
         "link": "https://list.iptvcat.com/my_list/s/f9cc988de2ffab43eafe9a484db6fae0.m3u8",
         "country": "asia",
         "liveliness": "100",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "3799",
         "URI": [
             "asia"
         ]
@@ -11396,20 +11368,6 @@
         ]
     },
     {
-        "id": "693936",
-        "channel": "Tokyo MX1",
-        "link": "https://list.iptvcat.com/my_list/s/4c6ef7a03f30a2f3b877b80d8c9bc1c5.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "24668",
         "channel": "Tokyo MX1",
         "link": "https://list.iptvcat.com/my_list/s/246c4f374f575b78ae912cb7f21e5d21.m3u8",
@@ -11419,6 +11377,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1182, ...",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
+        "id": "693936",
+        "channel": "Tokyo MX1",
+        "link": "https://list.iptvcat.com/my_list/s/4c6ef7a03f30a2f3b877b80d8c9bc1c5.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia"
         ]
@@ -11452,12 +11424,12 @@
         ]
     },
     {
-        "id": "24670",
+        "id": "132994",
         "channel": "Weather News",
-        "link": "https://list.iptvcat.com/my_list/s/e5c24c042cd248a8ac8c362c875a2a6b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/557bf80222b2396ae31ee101aea5491c.m3u8",
         "country": "asia",
-        "liveliness": "98",
-        "status": "online",
+        "liveliness": "73",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3799, ...",
@@ -11466,11 +11438,11 @@
         ]
     },
     {
-        "id": "132994",
+        "id": "24670",
         "channel": "Weather News",
-        "link": "https://list.iptvcat.com/my_list/s/557bf80222b2396ae31ee101aea5491c.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e5c24c042cd248a8ac8c362c875a2a6b.m3u8",
         "country": "asia",
-        "liveliness": "73",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -11872,9 +11844,9 @@
         ]
     },
     {
-        "id": "20204",
+        "id": "1503",
         "channel": "VOA Persian",
-        "link": "https://list.iptvcat.com/my_list/s/8acb33bccf37b69ae2f6a6cc7e50f3f2.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8e9d623d56157e4a439002e37f2cef0f.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -11886,9 +11858,9 @@
         ]
     },
     {
-        "id": "1503",
+        "id": "20204",
         "channel": "VOA Persian",
-        "link": "https://list.iptvcat.com/my_list/s/8e9d623d56157e4a439002e37f2cef0f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/8acb33bccf37b69ae2f6a6cc7e50f3f2.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -11914,9 +11886,9 @@
         ]
     },
     {
-        "id": "1550",
+        "id": "132959",
         "channel": "Channel 2 News",
-        "link": "https://list.iptvcat.com/my_list/s/3bbfc9028455072a5391d6d4803ad7e0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/6f89e0c10c3a5aa289cc1e7bc1a6b838.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -11928,9 +11900,9 @@
         ]
     },
     {
-        "id": "132959",
+        "id": "1550",
         "channel": "Channel 2 News",
-        "link": "https://list.iptvcat.com/my_list/s/6f89e0c10c3a5aa289cc1e7bc1a6b838.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3bbfc9028455072a5391d6d4803ad7e0.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -11988,7 +11960,7 @@
         "channel": "Fashion_TV",
         "link": "https://list.iptvcat.com/my_list/s/9efab289eb034b2c1da2b447485d39be.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -12030,7 +12002,7 @@
         "channel": "HOT_Bombay",
         "link": "https://list.iptvcat.com/my_list/s/db5dd256992880dbd037dde84b03facf.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12072,8 +12044,8 @@
         "channel": "HOT_DIY_HD_ISRAEL",
         "link": "https://list.iptvcat.com/my_list/s/134e876f3929c25bcd9d1bd68a037b0b.m3u8",
         "country": "asia",
-        "liveliness": "94",
-        "status": "offline",
+        "liveliness": "95",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "22116",
@@ -12087,7 +12059,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b92af43cffe9e2bad2b3c7e40f167bfc.m3u8",
         "country": "asia",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -12100,7 +12072,7 @@
         "channel": "HOT_Entertainment",
         "link": "https://list.iptvcat.com/my_list/s/753ee0b9675f6b091ce508cd4db9ba99.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12199,7 +12171,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2c9f395cc0c8c110b5d5a96fd8d73b2e.m3u8",
         "country": "asia",
         "liveliness": "90",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -12212,7 +12184,7 @@
         "channel": "HOT_Teen_nick",
         "link": "https://list.iptvcat.com/my_list/s/69422e8a067916b0e6304a642aa977c1.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -12352,7 +12324,7 @@
         "channel": "ISRAEL_Channel_12_Keshet",
         "link": "https://list.iptvcat.com/my_list/s/03ea11fcb583e2d64ca494e4fbcb709f.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12380,11 +12352,11 @@
         "channel": "ISRAEL_Channel_2_News",
         "link": "https://list.iptvcat.com/my_list/s/9e53b042fda1ddf7a07b546a8ad56704.m3u8",
         "country": "asia",
-        "liveliness": "78",
+        "liveliness": "79",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "1357",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -12394,8 +12366,8 @@
         "channel": "KESHET_12_HQ",
         "link": "https://list.iptvcat.com/my_list/s/7edca6b8fb953daf60f5028e362cef36.m3u8",
         "country": "asia",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
@@ -12432,20 +12404,6 @@
         ]
     },
     {
-        "id": "1558",
-        "channel": "Kabbalah for the People (Israel)",
-        "link": "https://list.iptvcat.com/my_list/s/e41fd5affe3907eb62bf43a68cc68da6.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2529",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132963",
         "channel": "Kabbalah for the People (Israel)",
         "link": "https://list.iptvcat.com/my_list/s/a470b1c2658d6004aa22af010078c220.m3u8",
@@ -12469,6 +12427,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1558",
+        "channel": "Kabbalah for the People (Israel)",
+        "link": "https://list.iptvcat.com/my_list/s/e41fd5affe3907eb62bf43a68cc68da6.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2529",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -12576,7 +12548,7 @@
         "channel": "ONE_II",
         "link": "https://list.iptvcat.com/my_list/s/9792699d7ca623bcfa6c988be3b9bab7.m3u8",
         "country": "asia",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12618,7 +12590,7 @@
         "channel": "TURKISH DRAMA 2",
         "link": "https://list.iptvcat.com/my_list/s/711cbb8c40dbfd9a1017342ab1fe6827.m3u8",
         "country": "asia",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -12646,8 +12618,8 @@
         "channel": "YES MOVIES ACTION",
         "link": "https://list.iptvcat.com/my_list/s/4873f51da2a3a1ef213926d397677c4b.m3u8",
         "country": "asia",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -12660,7 +12632,7 @@
         "channel": "YES MOVIES COMEDY",
         "link": "https://list.iptvcat.com/my_list/s/eb5e82b084daa50d51a555496d17fff7.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12674,7 +12646,7 @@
         "channel": "YES MOVIES DRAMA",
         "link": "https://list.iptvcat.com/my_list/s/00657cf3a567e8f9a7f95c148675e68d.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12730,7 +12702,7 @@
         "channel": "YES TV COMEDY",
         "link": "https://list.iptvcat.com/my_list/s/6170581f722b645e6839cd48e211d084.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -12758,8 +12730,8 @@
         "channel": "YES_CBS",
         "link": "https://list.iptvcat.com/my_list/s/b37a652f89de6521ff62242b5fb02b93.m3u8",
         "country": "asia",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "92",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -12842,8 +12814,8 @@
         "channel": "NEWS 7 Tamil",
         "link": "https://list.iptvcat.com/my_list/s/804bd4de4c208783f363e0f9441b58fa.m3u8",
         "country": "asia",
-        "liveliness": "37",
-        "status": "offline",
+        "liveliness": "39",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1613",
@@ -13053,7 +13025,7 @@
         "link": "https://list.iptvcat.com/my_list/s/08ddac244dafa62482c11d5991d2b1d2.m3u8",
         "country": "asia",
         "liveliness": "47",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1685",
@@ -13066,8 +13038,8 @@
         "channel": "PRIME ASIA",
         "link": "https://list.iptvcat.com/my_list/s/850ac30865ae4fdd9b1d0030a3cbecdb.m3u8",
         "country": "asia",
-        "liveliness": "38",
-        "status": "offline",
+        "liveliness": "40",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -13179,7 +13151,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c887c30cdc5b3bb77550e3ba306c9677.m3u8",
         "country": "asia",
         "liveliness": "97",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
@@ -13237,8 +13209,8 @@
         "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13262,8 +13234,8 @@
         "channel": "Star Gold",
         "link": "https://list.iptvcat.com/my_list/s/a4c1d622e861c955113cb3375bf38158.m3u8",
         "country": "asia",
-        "liveliness": "34",
-        "status": "online",
+        "liveliness": "33",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3482",
@@ -13300,11 +13272,11 @@
         ]
     },
     {
-        "id": "132927",
+        "id": "1234",
         "channel": "Suvarna News 24×7",
-        "link": "https://list.iptvcat.com/my_list/s/e6973f7aaeebf68524a01b1c13043ee0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/15e37bd354191810bcd256621a53fd4d.m3u8",
         "country": "asia",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -13314,11 +13286,11 @@
         ]
     },
     {
-        "id": "1234",
+        "id": "132927",
         "channel": "Suvarna News 24×7",
-        "link": "https://list.iptvcat.com/my_list/s/15e37bd354191810bcd256621a53fd4d.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e6973f7aaeebf68524a01b1c13043ee0.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -13356,6 +13328,20 @@
         ]
     },
     {
+        "id": "1240",
+        "channel": "Thanthi TV",
+        "link": "https://list.iptvcat.com/my_list/s/d123430bf7a7a6e16a14dfe3f4947bb8.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "132928",
         "channel": "Thanthi TV",
         "link": "https://list.iptvcat.com/my_list/s/533c19812875498bde8139d0001b5174.m3u8",
@@ -13384,20 +13370,6 @@
         ]
     },
     {
-        "id": "1240",
-        "channel": "Thanthi TV",
-        "link": "https://list.iptvcat.com/my_list/s/d123430bf7a7a6e16a14dfe3f4947bb8.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "1244",
         "channel": "Times Now HD",
         "link": "https://list.iptvcat.com/my_list/s/42c08f54fe8a7b8d9f1b9c1135d443b0.m3u8",
@@ -13416,8 +13388,8 @@
         "channel": "Travel xp HD",
         "link": "https://list.iptvcat.com/my_list/s/b844ed568ac339fa94efbacd4a14adc4.m3u8",
         "country": "asia",
-        "liveliness": "41",
-        "status": "online",
+        "liveliness": "40",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1494",
@@ -13434,7 +13406,7 @@
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3795",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13472,7 +13444,7 @@
         "channel": "Zee Action",
         "link": "https://list.iptvcat.com/my_list/s/62fa4305dcd7ecac967567d87e196528.m3u8",
         "country": "asia",
-        "liveliness": "55",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -13514,7 +13486,7 @@
         "channel": "Zee Cinema HD",
         "link": "https://list.iptvcat.com/my_list/s/497d0e3d2e512e9bf0c835caeab34b75.m3u8",
         "country": "asia",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -13532,7 +13504,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "11126",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13542,7 +13514,7 @@
         "channel": "Zee Talkies",
         "link": "https://list.iptvcat.com/my_list/s/9a15aeb03de50c2b60da6c5d442b70ae.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "28",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -13561,34 +13533,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13311",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "24636",
-        "channel": "BeritaSatu",
-        "link": "https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1270",
-        "channel": "BeritaSatu",
-        "link": "https://list.iptvcat.com/my_list/s/de5781935c99e31ac37568bf47d07abd.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13622,6 +13566,34 @@
         ]
     },
     {
+        "id": "24636",
+        "channel": "BeritaSatu",
+        "link": "https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1270",
+        "channel": "BeritaSatu",
+        "link": "https://list.iptvcat.com/my_list/s/de5781935c99e31ac37568bf47d07abd.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2517",
         "channel": "Channel NewsAsia, CNA HD",
         "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
@@ -13641,20 +13613,6 @@
         "link": "https://list.iptvcat.com/my_list/s/040186469f0ca5f9810c0e9117d67450.m3u8",
         "country": "asia",
         "liveliness": "97",
-        "status": "offline",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "13750",
-        "channel": "CNBC Indonesia",
-        "link": "https://list.iptvcat.com/my_list/s/83095997d0d01603fdc9a2419c6d4366.m3u8",
-        "country": "asia",
-        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -13669,6 +13627,20 @@
         "link": "https://list.iptvcat.com/my_list/s/4c9437386126d4c8e905a9132a0401eb.m3u8",
         "country": "asia",
         "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "13750",
+        "channel": "CNBC Indonesia",
+        "link": "https://list.iptvcat.com/my_list/s/83095997d0d01603fdc9a2419c6d4366.m3u8",
+        "country": "asia",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -13921,7 +13893,7 @@
         "link": "https://list.iptvcat.com/my_list/s/437f41de9205240fee3b20c0d73369ec.m3u8",
         "country": "asia",
         "liveliness": "57",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -13935,7 +13907,7 @@
         "link": "https://list.iptvcat.com/my_list/s/fb3b40d96a03952a5d1e0f416150b2a7.m3u8",
         "country": "asia",
         "liveliness": "52",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -14061,7 +14033,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8ca2e018f124c9bf65b8ffae0605296a.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
@@ -14112,20 +14084,6 @@
         ]
     },
     {
-        "id": "20199",
-        "channel": "Mihan TV, Mihan TV (US)",
-        "link": "https://list.iptvcat.com/my_list/s/86e68db5c9eea2dcad6edad41212468d.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132948",
         "channel": "Mihan TV",
         "link": "https://list.iptvcat.com/my_list/s/ac02371ed6d0796e095683cd459693f3.m3u8",
@@ -14140,9 +14098,23 @@
         ]
     },
     {
-        "id": "1485",
+        "id": "20199",
+        "channel": "Mihan TV, Mihan TV (US)",
+        "link": "https://list.iptvcat.com/my_list/s/86e68db5c9eea2dcad6edad41212468d.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1486",
         "channel": "Mohabat TV",
-        "link": "https://list.iptvcat.com/my_list/s/baab4563e67cd9358c2ace489fcfa35a.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/35bc867aaeeb00192730048339521d41.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -14154,9 +14126,9 @@
         ]
     },
     {
-        "id": "1486",
+        "id": "1485",
         "channel": "Mohabat TV",
-        "link": "https://list.iptvcat.com/my_list/s/35bc867aaeeb00192730048339521d41.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/baab4563e67cd9358c2ace489fcfa35a.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -14215,7 +14187,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a9bf4c99fc039076ce7f016ed654c0c0.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "390",
@@ -14302,7 +14274,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11161",
+        "mbps": "10941",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14456,7 +14428,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "5991, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14497,8 +14469,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1153",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14649,7 +14621,7 @@
         "link": "https://list.iptvcat.com/my_list/s/77bf3696ff7044f37cb8ca1e27074e0d.m3u8",
         "country": "asia",
         "liveliness": "42",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
@@ -14672,9 +14644,9 @@
         ]
     },
     {
-        "id": "7631",
+        "id": "1069",
         "channel": "ABP Asmita",
-        "link": "https://list.iptvcat.com/my_list/s/529521acac7ee45de886abf1850d6bbe.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/72bd8918671becf7f319b5d6d808c65b.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -14700,9 +14672,9 @@
         ]
     },
     {
-        "id": "1069",
+        "id": "7631",
         "channel": "ABP Asmita",
-        "link": "https://list.iptvcat.com/my_list/s/72bd8918671becf7f319b5d6d808c65b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/529521acac7ee45de886abf1850d6bbe.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -14721,8 +14693,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "354",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14789,7 +14761,7 @@
         "link": "https://list.iptvcat.com/my_list/s/68b351b92cd183b93bc12cece93f088e.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1290",
@@ -14886,7 +14858,7 @@
         "channel": "BOISHAKHI TV",
         "link": "https://list.iptvcat.com/my_list/s/d4c405dd16930b870460f3b645cf6a41.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -14900,8 +14872,8 @@
         "channel": "BanglaVision",
         "link": "https://list.iptvcat.com/my_list/s/eea11c767ef16ad349bfd747c0e43f16.m3u8",
         "country": "asia",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -14928,8 +14900,8 @@
         "channel": "CHARDIKLA TIME TV",
         "link": "https://list.iptvcat.com/my_list/s/752ff69b4e94cca69efc73ab0529a4e4.m3u8",
         "country": "asia",
-        "liveliness": "53",
-        "status": "online",
+        "liveliness": "50",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -14970,7 +14942,7 @@
         "channel": "Channel I",
         "link": "https://list.iptvcat.com/my_list/s/d2255665dd06288eb2de496b3dc93446.m3u8",
         "country": "asia",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -15078,9 +15050,9 @@
         ]
     },
     {
-        "id": "7632",
+        "id": "132907",
         "channel": "Desi Channel",
-        "link": "https://list.iptvcat.com/my_list/s/bf837a7e6385f0e04e4c40ee4a650312.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/cbc9a96300ee0dc9f5b959cf47dd4cbc.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -15106,9 +15078,9 @@
         ]
     },
     {
-        "id": "132907",
+        "id": "7632",
         "channel": "Desi Channel",
-        "link": "https://list.iptvcat.com/my_list/s/cbc9a96300ee0dc9f5b959cf47dd4cbc.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bf837a7e6385f0e04e4c40ee4a650312.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
@@ -15138,11 +15110,25 @@
         "channel": "Dhoom Music",
         "link": "https://list.iptvcat.com/my_list/s/297f27f0540fbaa96eeb57e4a1dbb145.m3u8",
         "country": "asia",
-        "liveliness": "35",
-        "status": "offline",
+        "liveliness": "36",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1139",
+        "channel": "ET Now",
+        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "offline",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -15157,20 +15143,6 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "1139",
-        "channel": "ET Now",
-        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -15222,8 +15194,8 @@
         "channel": "Hamdard TV Punjabi",
         "link": "https://list.iptvcat.com/my_list/s/355e2b383ddcc61110241720bb7ebb30.m3u8",
         "country": "asia",
-        "liveliness": "48",
-        "status": "offline",
+        "liveliness": "49",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -15232,9 +15204,9 @@
         ]
     },
     {
-        "id": "132911",
+        "id": "1146",
         "channel": "Harvest TV USA",
-        "link": "https://list.iptvcat.com/my_list/s/4ef510c3eaa7950d286c171a46bccd0f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e006f1514d47bd83b522a57a1935922f.m3u8",
         "country": "asia",
         "liveliness": "97",
         "status": "online",
@@ -15246,9 +15218,9 @@
         ]
     },
     {
-        "id": "1146",
+        "id": "132911",
         "channel": "Harvest TV USA",
-        "link": "https://list.iptvcat.com/my_list/s/e006f1514d47bd83b522a57a1935922f.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4ef510c3eaa7950d286c171a46bccd0f.m3u8",
         "country": "asia",
         "liveliness": "97",
         "status": "online",
@@ -15330,20 +15302,6 @@
         ]
     },
     {
-        "id": "1159",
-        "channel": "Janam TV",
-        "link": "https://list.iptvcat.com/my_list/s/f17366fd55deed07e4a53f3c2a8b7abc.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "523",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "132912",
         "channel": "Janam TV",
         "link": "https://list.iptvcat.com/my_list/s/b990a3c1881fd0ad6a8eb00356d0979d.m3u8",
@@ -15358,15 +15316,15 @@
         ]
     },
     {
-        "id": "1161",
-        "channel": "Janta TV",
-        "link": "https://list.iptvcat.com/my_list/s/f82a17f0dbfffa45e88438084114fc61.m3u8",
+        "id": "1159",
+        "channel": "Janam TV",
+        "link": "https://list.iptvcat.com/my_list/s/f17366fd55deed07e4a53f3c2a8b7abc.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1357",
+        "mbps": "523",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -15377,6 +15335,20 @@
         "link": "https://list.iptvcat.com/my_list/s/b136da8cc7bc3159bc6558acf957e9bb.m3u8",
         "country": "asia",
         "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1161",
+        "channel": "Janta TV",
+        "link": "https://list.iptvcat.com/my_list/s/f82a17f0dbfffa45e88438084114fc61.m3u8",
+        "country": "asia",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -15433,7 +15405,7 @@
         "link": "https://list.iptvcat.com/my_list/s/17746af0dd099aa7969fccd3781882e3.m3u8",
         "country": "asia",
         "liveliness": "36",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -15657,7 +15629,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c47c831d5bbeb74226e5173063c3d752.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -15685,7 +15657,7 @@
         "link": "https://list.iptvcat.com/my_list/s/19c1d82dc57ec1f07f52452d9e78d3d6.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -15769,7 +15741,7 @@
         "link": "https://list.iptvcat.com/my_list/s/842466d716175da106047aef55f6f785.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -15954,7 +15926,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "2334, ...",
+        "mbps": "2334",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16030,20 +16002,6 @@
         ]
     },
     {
-        "id": "4125",
-        "channel": "CGTN Documentary",
-        "link": "https://list.iptvcat.com/my_list/s/750309b4dcf038b8d28e746f6e5b6ad2.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "4124",
         "channel": "CGTN Documentary",
         "link": "https://list.iptvcat.com/my_list/s/b06cdd1fa0205d538cba915de935f931.m3u8",
@@ -16053,6 +16011,20 @@
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "4125",
+        "channel": "CGTN Documentary",
+        "link": "https://list.iptvcat.com/my_list/s/750309b4dcf038b8d28e746f6e5b6ad2.m3u8",
+        "country": "asia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16160,11 +16132,11 @@
         "channel": "东至影视频道",
         "link": "https://list.iptvcat.com/my_list/s/29c3321dd6de1778c34693391e81469d.m3u8",
         "country": "asia",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1783",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16343,7 +16315,7 @@
         "link": "https://list.iptvcat.com/my_list/s/faf25339feaca56d0322be989533d0b8.m3u8",
         "country": "asia",
         "liveliness": "93",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "708",
@@ -16374,7 +16346,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "5860",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16430,7 +16402,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "4821",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16688,20 +16660,6 @@
         ]
     },
     {
-        "id": "4915",
-        "channel": "江津文化旅游",
-        "link": "https://list.iptvcat.com/my_list/s/408e3ffa5d33872849207616e4e75223.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "4916",
         "channel": "江津文化旅游",
         "link": "https://list.iptvcat.com/my_list/s/e2e69ff8233c539faa5fd8f38c340678.m3u8",
@@ -16716,15 +16674,15 @@
         ]
     },
     {
-        "id": "4917",
-        "channel": "江津新闻综合",
-        "link": "https://list.iptvcat.com/my_list/s/7a68156c2ab23a110880b1cca1b915b4.m3u8",
+        "id": "4915",
+        "channel": "江津文化旅游",
+        "link": "https://list.iptvcat.com/my_list/s/408e3ffa5d33872849207616e4e75223.m3u8",
         "country": "asia",
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "1408",
+        "mbps": "1509",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16735,6 +16693,20 @@
         "link": "https://list.iptvcat.com/my_list/s/1446376556f8aa5a370ac5b6f31958ae.m3u8",
         "country": "asia",
         "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1408",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "4917",
+        "channel": "江津新闻综合",
+        "link": "https://list.iptvcat.com/my_list/s/7a68156c2ab23a110880b1cca1b915b4.m3u8",
+        "country": "asia",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -16920,7 +16892,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
-        "mbps": "746",
+        "mbps": "2334",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -16986,11 +16958,25 @@
         "channel": "Africable",
         "link": "https://list.iptvcat.com/my_list/s/422ba3f2bd9427ba5d4981d8a1da19b8.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1",
+        "channel": "Ariana News",
+        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -17010,15 +16996,15 @@
         ]
     },
     {
-        "id": "1",
-        "channel": "Ariana News",
-        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "id": "132507",
+        "channel": "Ariana TV",
+        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -17041,20 +17027,6 @@
         "id": "2",
         "channel": "Ariana TV, Ariana TV USA",
         "link": "https://list.iptvcat.com/my_list/s/7b3753262221ee932045136fa5e7e414.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132507",
-        "channel": "Ariana TV",
-        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -17098,7 +17070,7 @@
         "channel": "Emmanuel TV",
         "link": "https://list.iptvcat.com/my_list/s/737154a91a2a1eff3aaeb44a6409678a.m3u8",
         "country": "asia",
-        "liveliness": "28",
+        "liveliness": "27",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -17126,7 +17098,7 @@
         "channel": "IL TV",
         "link": "https://list.iptvcat.com/my_list/s/150038555d18ca8b09fac3d7b7c508f5.m3u8",
         "country": "asia",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -17155,10 +17127,10 @@
         "link": "https://list.iptvcat.com/my_list/s/163d8a3bb2a3db6d96406f4732749d66.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -17168,7 +17140,7 @@
         "channel": "Loveworld Plus TV ( Nigeria )",
         "link": "https://list.iptvcat.com/my_list/s/32a3bf3e68b504e28386f1e86c8eddee.m3u8",
         "country": "asia",
-        "liveliness": "19",
+        "liveliness": "18",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -17210,7 +17182,7 @@
         "channel": "Mourchid TV (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/7d4dcd8f85014af087211ead1fc69a77.m3u8",
         "country": "asia",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -17280,7 +17252,7 @@
         "channel": "RTG ( Guiniea )",
         "link": "https://list.iptvcat.com/my_list/s/81a05ccfa432a683b3fc729e60458631.m3u8",
         "country": "asia",
-        "liveliness": "36",
+        "liveliness": "35",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -17294,7 +17266,7 @@
         "channel": "RTV Rwanda",
         "link": "https://list.iptvcat.com/my_list/s/4462d576b6d08c060bafdcfdbb3639d0.m3u8",
         "country": "asia",
-        "liveliness": "25",
+        "liveliness": "24",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -17336,7 +17308,7 @@
         "channel": "TFM (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/b14ce0be39e68db0fcf57fa9735def0c.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -17350,7 +17322,7 @@
         "channel": "TPA Angola",
         "link": "https://list.iptvcat.com/my_list/s/5d2050a61103a497400cfadb86729c00.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -17364,7 +17336,7 @@
         "channel": "UNIVERSEL SOMALI TV",
         "link": "https://list.iptvcat.com/my_list/s/5a0e11a60b92a93770dc0e06c8f98bba.m3u8",
         "country": "asia",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -17378,7 +17350,7 @@
         "channel": "Universal TV",
         "link": "https://list.iptvcat.com/my_list/s/4ce5598eebfef664005d8a45f4fcf0c1.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "26",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -17505,7 +17477,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1cca6069816eed5973cb262ce1608050.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -17533,7 +17505,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ba18e935b7626a136a3390eced7e3b6b.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -17561,7 +17533,7 @@
         "link": "https://list.iptvcat.com/my_list/s/58355816f5a124d4a6f18285d69ef47e.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -17715,7 +17687,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0ce83850ce76f901ff18813ce49200dd.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -17841,7 +17813,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37d16bea16e1fe208b861ed9c8dee86f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -17939,7 +17911,7 @@
         "link": "https://list.iptvcat.com/my_list/s/43345e8c1441541cc4e7b3486eaaf936.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "790",
@@ -17953,7 +17925,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad4da3ef7c8775aec6e299345fba50ec.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -17980,7 +17952,7 @@
         "channel": "Dunya TV",
         "link": "https://list.iptvcat.com/my_list/s/dff3d923aabb50a2936635f3d8739c1b.m3u8",
         "country": "asia",
-        "liveliness": "53",
+        "liveliness": "57",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -18065,7 +18037,7 @@
         "link": "https://list.iptvcat.com/my_list/s/cf2febe5caf4b5d6f6706ec2f91235dd.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18134,7 +18106,7 @@
         "channel": "Investigation Discovery",
         "link": "https://list.iptvcat.com/my_list/s/08b292d6d13d46fbe21ac242d2d20c97.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -18205,7 +18177,7 @@
         "link": "https://list.iptvcat.com/my_list/s/699916c3a4d50fc3cb14dc68000e8dea.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18219,7 +18191,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8f47f1fedf4850f81b96084f9de082cc.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18232,7 +18204,7 @@
         "channel": "Medeniyyet TV HD",
         "link": "https://list.iptvcat.com/my_list/s/ba97d4f0843bf05cb222505349776e8b.m3u8",
         "country": "asia",
-        "liveliness": "60",
+        "liveliness": "64",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -18288,7 +18260,7 @@
         "channel": "Muz TV",
         "link": "https://list.iptvcat.com/my_list/s/661ee857fef1ff0a92f2d8dc885a7ace.m3u8",
         "country": "asia",
-        "liveliness": "60",
+        "liveliness": "59",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -18317,7 +18289,7 @@
         "link": "https://list.iptvcat.com/my_list/s/d4b26d695e00a17d2f73eceacaa5fe19.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18331,7 +18303,7 @@
         "link": "https://list.iptvcat.com/my_list/s/76422e6ff7c62049c2fbe4ce8bb7ccf0.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -18418,7 +18390,7 @@
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13311",
+        "mbps": "8928",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -18429,7 +18401,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0cd20c768b04090a679fd39c7f2a0ee8.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18526,8 +18498,8 @@
         "channel": "Sahar Azeri",
         "link": "https://list.iptvcat.com/my_list/s/c6cb95a3464da5109dc06a3392e5bf17.m3u8",
         "country": "asia",
-        "liveliness": "53",
-        "status": "online",
+        "liveliness": "52",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
@@ -18568,8 +18540,8 @@
         "channel": "Sony Turbo",
         "link": "https://list.iptvcat.com/my_list/s/f5f68253789e023ab1b167e80462f249.m3u8",
         "country": "asia",
-        "liveliness": "99",
-        "status": "offline",
+        "liveliness": "98",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18709,7 +18681,7 @@
         "link": "https://list.iptvcat.com/my_list/s/42312ac0c44cbaf059d7769c7ed38883.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -18737,7 +18709,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9317b8f3dcb3649caa901f34e4c7f803.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18807,7 +18779,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1785ef555785bba7bd6401b238a45664.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -18877,7 +18849,7 @@
         "link": "https://list.iptvcat.com/my_list/s/33d12fad88ed2f4a0fa36be9c837e705.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -18918,7 +18890,7 @@
         "channel": "АВТО 24",
         "link": "https://list.iptvcat.com/my_list/s/8c99e3a9fca55bb60020373256b86d1d.m3u8",
         "country": "asia",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19017,7 +18989,7 @@
         "link": "https://list.iptvcat.com/my_list/s/83c2a1f72b313ba8a558ee9fc40228c9.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19031,7 +19003,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3e62cf39b10baf580f1e7619b62c76e5.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19045,7 +19017,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3d6a9de5722bee7167d4437c4580f50b.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19157,7 +19129,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c546ac0e117ec092bcda045611f71277.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19171,7 +19143,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0a6fcb94cb1cecd011dff8bd6fe57279.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -19185,7 +19157,7 @@
         "link": "https://list.iptvcat.com/my_list/s/500142832c11ff2d58b14b86b63ba2d1.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19283,7 +19255,7 @@
         "link": "https://list.iptvcat.com/my_list/s/e114c79ad1d9ecf326895e6d4c292997.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19394,11 +19366,25 @@
         "channel": "Africable",
         "link": "https://list.iptvcat.com/my_list/s/422ba3f2bd9427ba5d4981d8a1da19b8.m3u8",
         "country": "asia",
-        "liveliness": "30",
+        "liveliness": "29",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "1",
+        "channel": "Ariana News",
+        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-03-17T00:00:00Z",
+        "format": "sd",
+        "mbps": "1601",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -19418,15 +19404,15 @@
         ]
     },
     {
-        "id": "1",
-        "channel": "Ariana News",
-        "link": "https://list.iptvcat.com/my_list/s/9f78b72630ccc6f75859949386de74e1.m3u8",
+        "id": "132507",
+        "channel": "Ariana TV",
+        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -19449,20 +19435,6 @@
         "id": "2",
         "channel": "Ariana TV, Ariana TV USA",
         "link": "https://list.iptvcat.com/my_list/s/7b3753262221ee932045136fa5e7e414.m3u8",
-        "country": "asia",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-03-17T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132507",
-        "channel": "Ariana TV",
-        "link": "https://list.iptvcat.com/my_list/s/d5fdd2e54d22df8650af9c9254732ecc.m3u8",
         "country": "asia",
         "liveliness": "98",
         "status": "online",
@@ -19506,7 +19478,7 @@
         "channel": "Emmanuel TV",
         "link": "https://list.iptvcat.com/my_list/s/737154a91a2a1eff3aaeb44a6409678a.m3u8",
         "country": "asia",
-        "liveliness": "28",
+        "liveliness": "27",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -19534,7 +19506,7 @@
         "channel": "IL TV",
         "link": "https://list.iptvcat.com/my_list/s/150038555d18ca8b09fac3d7b7c508f5.m3u8",
         "country": "asia",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -19563,10 +19535,10 @@
         "link": "https://list.iptvcat.com/my_list/s/163d8a3bb2a3db6d96406f4732749d66.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -19576,7 +19548,7 @@
         "channel": "Loveworld Plus TV ( Nigeria )",
         "link": "https://list.iptvcat.com/my_list/s/32a3bf3e68b504e28386f1e86c8eddee.m3u8",
         "country": "asia",
-        "liveliness": "19",
+        "liveliness": "18",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19618,7 +19590,7 @@
         "channel": "Mourchid TV (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/7d4dcd8f85014af087211ead1fc69a77.m3u8",
         "country": "asia",
-        "liveliness": "53",
+        "liveliness": "51",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -19688,7 +19660,7 @@
         "channel": "RTG ( Guiniea )",
         "link": "https://list.iptvcat.com/my_list/s/81a05ccfa432a683b3fc729e60458631.m3u8",
         "country": "asia",
-        "liveliness": "36",
+        "liveliness": "35",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
@@ -19702,7 +19674,7 @@
         "channel": "RTV Rwanda",
         "link": "https://list.iptvcat.com/my_list/s/4462d576b6d08c060bafdcfdbb3639d0.m3u8",
         "country": "asia",
-        "liveliness": "25",
+        "liveliness": "24",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19744,7 +19716,7 @@
         "channel": "TFM (Senegal)",
         "link": "https://list.iptvcat.com/my_list/s/b14ce0be39e68db0fcf57fa9735def0c.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19758,7 +19730,7 @@
         "channel": "TPA Angola",
         "link": "https://list.iptvcat.com/my_list/s/5d2050a61103a497400cfadb86729c00.m3u8",
         "country": "asia",
-        "liveliness": "54",
+        "liveliness": "53",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19772,7 +19744,7 @@
         "channel": "UNIVERSEL SOMALI TV",
         "link": "https://list.iptvcat.com/my_list/s/5a0e11a60b92a93770dc0e06c8f98bba.m3u8",
         "country": "asia",
-        "liveliness": "43",
+        "liveliness": "41",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "fhd 2k",
@@ -19786,7 +19758,7 @@
         "channel": "Universal TV",
         "link": "https://list.iptvcat.com/my_list/s/4ce5598eebfef664005d8a45f4fcf0c1.m3u8",
         "country": "asia",
-        "liveliness": "27",
+        "liveliness": "26",
         "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
@@ -19913,7 +19885,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1cca6069816eed5973cb262ce1608050.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1008",
@@ -19941,7 +19913,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ba18e935b7626a136a3390eced7e3b6b.m3u8",
         "country": "asia",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -19969,7 +19941,7 @@
         "link": "https://list.iptvcat.com/my_list/s/58355816f5a124d4a6f18285d69ef47e.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "1706",
@@ -20123,7 +20095,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0ce83850ce76f901ff18813ce49200dd.m3u8",
         "country": "asia",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -20249,7 +20221,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37d16bea16e1fe208b861ed9c8dee86f.m3u8",
         "country": "asia",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -20347,7 +20319,7 @@
         "link": "https://list.iptvcat.com/my_list/s/43345e8c1441541cc4e7b3486eaaf936.m3u8",
         "country": "asia",
         "liveliness": "96",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-03-17T00:00:00Z",
         "format": "sd",
         "mbps": "790",
