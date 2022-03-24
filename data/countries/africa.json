@@ -186,7 +186,7 @@
         "channel": "Resurrection TV",
         "link": "https://list.iptvcat.com/my_list/s/48a5fe66399992bcee0fc3f1894335d1.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "sd",
@@ -229,7 +229,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8",
         "country": "africa",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -260,7 +260,7 @@
         "status": "online",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2327",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -482,7 +482,7 @@
         "channel": "Resurrection TV",
         "link": "https://list.iptvcat.com/my_list/s/48a5fe66399992bcee0fc3f1894335d1.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "offline",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "sd",
@@ -525,7 +525,7 @@
         "link": "https://list.iptvcat.com/my_list/s/9f225b30256ed4f9ea43f305aab090be.m3u8",
         "country": "africa",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
@@ -556,7 +556,7 @@
         "status": "online",
         "lastChecked": "2022-03-24T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "2327",
         "URI": [
             "africa_-_-_-_-_-"
         ]
