@@ -334,7 +334,7 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa"
@@ -745,7 +745,7 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-04-25T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa"
