@@ -18,11 +18,11 @@
         "channel": "RTB (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/36522c6df16531458ebc7bbdb719cdb6.m3u8",
         "country": "africa",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -201,7 +201,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -218,8 +218,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -233,8 +233,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -245,7 +245,7 @@
         "channel": "KTN News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
@@ -306,8 +306,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "africa"
         ]
@@ -444,7 +444,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -461,8 +461,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -476,8 +476,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -488,7 +488,7 @@
         "channel": "KTN News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
@@ -532,11 +532,11 @@
         "channel": "RTB (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/36522c6df16531458ebc7bbdb719cdb6.m3u8",
         "country": "africa",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -703,8 +703,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "africa"
         ]
@@ -812,11 +812,11 @@
         "channel": "RTB (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/36522c6df16531458ebc7bbdb719cdb6.m3u8",
         "country": "africa",
-        "liveliness": "85",
-        "status": "online",
+        "liveliness": "84",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -953,7 +953,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -970,8 +970,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -985,8 +985,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -997,7 +997,7 @@
         "channel": "KTN News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
@@ -1028,7 +1028,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -1045,8 +1045,8 @@
         "liveliness": "84",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -1060,8 +1060,8 @@
         "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-05-07T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546",
+        "format": "sd",
+        "mbps": "1996",
         "URI": [
             "africa",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -1072,7 +1072,7 @@
         "channel": "KTN News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
-        "liveliness": "83",
+        "liveliness": "82",
         "status": "offline",
         "lastChecked": "2022-05-07T00:00:00Z",
         "format": "hd",
