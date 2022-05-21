@@ -1400,20 +1400,6 @@
         ]
     },
     {
-        "id": "2551488",
-        "channel": "Kalemeh Farsi",
-        "link": "https://list.iptvcat.com/my_list/s/bde21787baf0bed33c80ac2034d1ff77.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2551306",
         "channel": "Kalemeh TV",
         "link": "https://list.iptvcat.com/my_list/s/d44d0b694174d4960dcf716548e61866.m3u8",
@@ -2789,6 +2775,20 @@
         "id": "2551546",
         "channel": "Yazd TV Taban",
         "link": "https://list.iptvcat.com/my_list/s/51c565b0ca68d779ff4915d7afc47f07.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2551248",
+        "channel": "e Farda TV",
+        "link": "https://list.iptvcat.com/my_list/s/e20831a4f6ee2b60b34be67b7d891fe2.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
@@ -5222,20 +5222,6 @@
         ]
     },
     {
-        "id": "1139",
-        "channel": "ET Now",
-        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2472465",
         "channel": "ETV Telangana (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/c1eeb2b06d467a7f6bfaf96ebc4fe044.m3u8",
@@ -5600,17 +5586,17 @@
         ]
     },
     {
-        "id": "2472659",
-        "channel": "Ýaşlyk (406p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/6dc8d1d6c2546f7e03b4d5f95a8690e8.m3u8",
+        "id": "2472588",
+        "channel": "Kerala Vision (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/c35bd6159ce77df1a00dfd3d7dc0828d.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
-        "mbps": "464",
+        "mbps": "4532",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -5693,20 +5679,6 @@
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "365",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
-        "id": "2472899",
-        "channel": "BeitolAbbas TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/5d7b0a35742bc71d01ed0c6058bd5577.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "asia"
         ]
@@ -7098,15 +7070,15 @@
         ]
     },
     {
-        "id": "2551663",
-        "channel": "VIP Hop",
-        "link": "https://list.iptvcat.com/my_list/s/41976e7def051b76f16ed26cc5862bb5.m3u8",
+        "id": "2551488",
+        "channel": "Kalemeh Farsi",
+        "link": "https://list.iptvcat.com/my_list/s/bde21787baf0bed33c80ac2034d1ff77.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1174",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "asia"
         ]
@@ -8283,20 +8255,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
-        "id": "2472621",
-        "channel": "Arirang Radio (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/df240fbd34f0d69e56ea81c8d1ebff44.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
         "URI": [
             "asia"
         ]
@@ -9646,6 +9604,20 @@
         ]
     },
     {
+        "id": "2472659",
+        "channel": "Ýaşlyk (406p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/6dc8d1d6c2546f7e03b4d5f95a8690e8.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "464",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
         "id": "1910",
         "channel": "澳视澳门",
         "link": "https://list.iptvcat.com/my_list/s/c79a95e377cc4fc96d6e476227520445.m3u8",
@@ -10234,15 +10206,15 @@
         ]
     },
     {
-        "id": "2551248",
-        "channel": "e Farda TV",
-        "link": "https://list.iptvcat.com/my_list/s/e20831a4f6ee2b60b34be67b7d891fe2.m3u8",
+        "id": "2472621",
+        "channel": "Arirang Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/df240fbd34f0d69e56ea81c8d1ebff44.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -11298,15 +11270,15 @@
         ]
     },
     {
-        "id": "2472588",
-        "channel": "Kerala Vision (576p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/c35bd6159ce77df1a00dfd3d7dc0828d.m3u8",
+        "id": "2551663",
+        "channel": "VIP Hop",
+        "link": "https://list.iptvcat.com/my_list/s/41976e7def051b76f16ed26cc5862bb5.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
+        "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
-        "mbps": "4532",
+        "mbps": "1174",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -12693,6 +12665,20 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "3625, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2517",
+        "channel": "Channel NewsAsia, CNA HD",
+        "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14095,20 +14081,6 @@
         "mbps": "1853",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2517",
-        "channel": "Channel NewsAsia, CNA HD",
-        "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "asia"
         ]
     },
     {
@@ -16908,7 +16880,7 @@
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -19372,7 +19344,7 @@
         "format": "sd",
         "mbps": "1174",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -21150,7 +21122,7 @@
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -23996,20 +23968,6 @@
         ]
     },
     {
-        "id": "2517",
-        "channel": "Channel NewsAsia, CNA HD",
-        "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "10211",
         "channel": "CNBC, CNBC Indonesia",
         "link": "https://list.iptvcat.com/my_list/s/040186469f0ca5f9810c0e9117d67450.m3u8",
@@ -25396,17 +25354,17 @@
         ]
     },
     {
-        "id": "2472588",
-        "channel": "Kerala Vision (576p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/c35bd6159ce77df1a00dfd3d7dc0828d.m3u8",
+        "id": "2472899",
+        "channel": "BeitolAbbas TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/5d7b0a35742bc71d01ed0c6058bd5577.m3u8",
         "country": "asia",
-        "liveliness": "96",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "4532",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -26796,6 +26754,20 @@
         ]
     },
     {
+        "id": "2517",
+        "channel": "Channel NewsAsia, CNA HD",
+        "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2473506",
         "channel": "阳江综合 (480p)",
         "link": "https://list.iptvcat.com/my_list/s/d12c8f5deae918555949d52a39d34c80.m3u8",
@@ -27818,20 +27790,6 @@
         ]
     },
     {
-        "id": "1139",
-        "channel": "ET Now",
-        "link": "https://list.iptvcat.com/my_list/s/d7386a9c703e8dab3392def449e47b12.m3u8",
-        "country": "asia",
-        "liveliness": "99",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334, ...",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2472465",
         "channel": "ETV Telangana (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/c1eeb2b06d467a7f6bfaf96ebc4fe044.m3u8",
@@ -28191,6 +28149,20 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
         "mbps": "2711",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2472588",
+        "channel": "Kerala Vision (576p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/c35bd6159ce77df1a00dfd3d7dc0828d.m3u8",
+        "country": "asia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "4532",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]

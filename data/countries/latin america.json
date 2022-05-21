@@ -8400,20 +8400,6 @@
         ]
     },
     {
-        "id": "2546428",
-        "channel": "TELESISTEMA",
-        "link": "https://list.iptvcat.com/my_list/s/d136ce4b84a134d7ea8980dbb45959e0.m3u8",
-        "country": "latin america",
-        "liveliness": "89",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1478",
-        "URI": [
-            "latin_america"
-        ]
-    },
-    {
         "id": "2546430",
         "channel": "TELESUR",
         "link": "https://list.iptvcat.com/my_list/s/d3bcff81768d647c8bc8f5fe62ce6b1b.m3u8",
@@ -15670,20 +15656,6 @@
         ]
     },
     {
-        "id": "2546401",
-        "channel": "SHOWTIME WEST",
-        "link": "https://list.iptvcat.com/my_list/s/c9ea7ac8f49bce22b218a45ea99e8a14.m3u8",
-        "country": "latin america",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "latin_america"
-        ]
-    },
-    {
         "id": "2546402",
         "channel": "SONY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/fe1237cc88f9a74f1f25315575100706.m3u8",
@@ -19338,20 +19310,6 @@
         ]
     },
     {
-        "id": "2546401",
-        "channel": "SHOWTIME WEST",
-        "link": "https://list.iptvcat.com/my_list/s/c9ea7ac8f49bce22b218a45ea99e8a14.m3u8",
-        "country": "latin america",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
-        "URI": [
-            "latin_america"
-        ]
-    },
-    {
         "id": "2546402",
         "channel": "SONY CHANNEL",
         "link": "https://list.iptvcat.com/my_list/s/fe1237cc88f9a74f1f25315575100706.m3u8",
@@ -20173,6 +20131,20 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "latin_america"
+        ]
+    },
+    {
+        "id": "2546428",
+        "channel": "TELESISTEMA",
+        "link": "https://list.iptvcat.com/my_list/s/d136ce4b84a134d7ea8980dbb45959e0.m3u8",
+        "country": "latin america",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1478",
         "URI": [
             "latin_america"
         ]
