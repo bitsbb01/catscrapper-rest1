@@ -1400,20 +1400,6 @@
         ]
     },
     {
-        "id": "2551538",
-        "channel": "KHURSHID TV",
-        "link": "https://list.iptvcat.com/my_list/s/96a76de72dff8a74448e171374590ff9.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2551488",
         "channel": "Kalemeh Farsi",
         "link": "https://list.iptvcat.com/my_list/s/bde21787baf0bed33c80ac2034d1ff77.m3u8",
@@ -2800,15 +2786,15 @@
         ]
     },
     {
-        "id": "2473492",
-        "channel": "揭阳综合 (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/29145721241e633c04091f7870d58692.m3u8",
+        "id": "2551546",
+        "channel": "Yazd TV Taban",
+        "link": "https://list.iptvcat.com/my_list/s/51c565b0ca68d779ff4915d7afc47f07.m3u8",
         "country": "asia",
-        "liveliness": "90",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
+        "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1853",
+        "mbps": "1509",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5600,17 +5586,17 @@
         ]
     },
     {
-        "id": "2472652",
-        "channel": "Ýaşlyk (406p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/5935a5fc711073c7c64b316178f52e51.m3u8",
+        "id": "2472567",
+        "channel": "Kannur One (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/4eb057eab55c197a15b7867f26aef92d.m3u8",
         "country": "asia",
-        "liveliness": "98",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
-        "mbps": "1685",
+        "mbps": "2711",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -5707,20 +5693,6 @@
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "365",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
-        "id": "2551142",
-        "channel": "Barya TV",
-        "link": "https://list.iptvcat.com/my_list/s/a25c857aba5f561fd68ee063a3cb3713.m3u8",
-        "country": "asia",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "asia"
         ]
@@ -7112,15 +7084,15 @@
         ]
     },
     {
-        "id": "2551643",
-        "channel": "VIP Hala TV",
-        "link": "https://list.iptvcat.com/my_list/s/2d67e126c98b3b9cdb5f604a6b1236ec.m3u8",
+        "id": "2551538",
+        "channel": "KHURSHID TV",
+        "link": "https://list.iptvcat.com/my_list/s/96a76de72dff8a74448e171374590ff9.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "1509",
         "URI": [
             "asia"
         ]
@@ -8311,20 +8283,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
-        "id": "2472614",
-        "channel": "Arirang Radio (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/fddc2bdeb3dbf40d4cc4c23864c7be2a.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
         "URI": [
             "asia"
         ]
@@ -9674,6 +9632,20 @@
         ]
     },
     {
+        "id": "2472652",
+        "channel": "Ýaşlyk (406p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/5935a5fc711073c7c64b316178f52e51.m3u8",
+        "country": "asia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "asia"
+        ]
+    },
+    {
         "id": "1910",
         "channel": "澳视澳门",
         "link": "https://list.iptvcat.com/my_list/s/c79a95e377cc4fc96d6e476227520445.m3u8",
@@ -10248,15 +10220,15 @@
         ]
     },
     {
-        "id": "2551546",
-        "channel": "Yazd TV Taban",
-        "link": "https://list.iptvcat.com/my_list/s/51c565b0ca68d779ff4915d7afc47f07.m3u8",
+        "id": "2472614",
+        "channel": "Arirang Radio (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/fddc2bdeb3dbf40d4cc4c23864c7be2a.m3u8",
         "country": "asia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -11312,15 +11284,15 @@
         ]
     },
     {
-        "id": "2472567",
-        "channel": "Kannur One (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/4eb057eab55c197a15b7867f26aef92d.m3u8",
+        "id": "2551643",
+        "channel": "VIP Hala TV",
+        "link": "https://list.iptvcat.com/my_list/s/2d67e126c98b3b9cdb5f604a6b1236ec.m3u8",
         "country": "asia",
-        "liveliness": "95",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
+        "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
-        "mbps": "2711",
+        "mbps": "3262",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -12712,6 +12684,20 @@
         ]
     },
     {
+        "id": "2472689",
+        "channel": "BeritaSatu World (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/159b8eaa030b8db93b5a4cf7419312a8.m3u8",
+        "country": "asia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625, ...",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2472849",
         "channel": "CCTV-5体育 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/549458d072ee778c9fbc4b2953177a0d.m3u8",
@@ -13365,20 +13351,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2473424",
-        "channel": "中牟综合 (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/b8da99ecba41af5a31dbf1fcf225e94f.m3u8",
-        "country": "asia",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -14112,17 +14084,17 @@
         ]
     },
     {
-        "id": "2472689",
-        "channel": "BeritaSatu World (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/159b8eaa030b8db93b5a4cf7419312a8.m3u8",
+        "id": "2473492",
+        "channel": "揭阳综合 (540p)",
+        "link": "https://list.iptvcat.com/my_list/s/29145721241e633c04091f7870d58692.m3u8",
         "country": "asia",
-        "liveliness": "100",
+        "liveliness": "90",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -16922,7 +16894,7 @@
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -19386,7 +19358,7 @@
         "format": "sd",
         "mbps": "3262",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -21164,7 +21136,7 @@
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "asia"
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -24024,20 +23996,6 @@
         ]
     },
     {
-        "id": "2472689",
-        "channel": "BeritaSatu World (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/159b8eaa030b8db93b5a4cf7419312a8.m3u8",
-        "country": "asia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625, ...",
-        "URI": [
-            "asia"
-        ]
-    },
-    {
         "id": "2517",
         "channel": "Channel NewsAsia, CNA HD",
         "link": "https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8",
@@ -25424,17 +25382,17 @@
         ]
     },
     {
-        "id": "2472567",
-        "channel": "Kannur One (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/4eb057eab55c197a15b7867f26aef92d.m3u8",
+        "id": "2551142",
+        "channel": "Barya TV",
+        "link": "https://list.iptvcat.com/my_list/s/a25c857aba5f561fd68ee063a3cb3713.m3u8",
         "country": "asia",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "50",
+        "status": "offline",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "2711",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -26824,15 +26782,15 @@
         ]
     },
     {
-        "id": "5354",
-        "channel": "阳江综合",
-        "link": "https://list.iptvcat.com/my_list/s/9d0d7116d60fb33c3f00732614e73b78.m3u8",
+        "id": "2472689",
+        "channel": "BeritaSatu World (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/159b8eaa030b8db93b5a4cf7419312a8.m3u8",
         "country": "asia",
-        "liveliness": "93",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "1153",
+        "format": "hd",
+        "mbps": "3625, ...",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -28224,15 +28182,15 @@
         ]
     },
     {
-        "id": "2473492",
-        "channel": "揭阳综合 (540p)",
-        "link": "https://list.iptvcat.com/my_list/s/29145721241e633c04091f7870d58692.m3u8",
+        "id": "2472567",
+        "channel": "Kannur One (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/4eb057eab55c197a15b7867f26aef92d.m3u8",
         "country": "asia",
-        "liveliness": "90",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
-        "mbps": "1853",
+        "mbps": "2711",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -29624,6 +29582,20 @@
         ]
     },
     {
+        "id": "5354",
+        "channel": "阳江综合",
+        "link": "https://list.iptvcat.com/my_list/s/9d0d7116d60fb33c3f00732614e73b78.m3u8",
+        "country": "asia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1153",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "2472849",
         "channel": "CCTV-5体育 (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/549458d072ee778c9fbc4b2953177a0d.m3u8",
@@ -30277,20 +30249,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
-        "URI": [
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2473424",
-        "channel": "中牟综合 (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/b8da99ecba41af5a31dbf1fcf225e94f.m3u8",
-        "country": "asia",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -31019,6 +30977,20 @@
         "lastChecked": "2022-05-19T00:00:00Z",
         "format": "sd",
         "mbps": "1153",
+        "URI": [
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2473492",
+        "channel": "揭阳综合 (540p)",
+        "link": "https://list.iptvcat.com/my_list/s/29145721241e633c04091f7870d58692.m3u8",
+        "country": "asia",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853",
         "URI": [
             "asia_-_-_-_-_-_-_-_-_-_-_-"
         ]
