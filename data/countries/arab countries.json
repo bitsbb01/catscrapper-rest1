@@ -2939,7 +2939,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -6004,7 +6004,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -7607,7 +7607,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -11478,7 +11478,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -14543,7 +14543,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {
@@ -16095,38 +16095,6 @@
         ]
     },
     {
-        "id": "2476163",
-        "channel": "1+1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
-        "country": "arab countries",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3182",
-        "channel": "AE | Dubai Zaman, Dubai Zaman",
-        "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "3252",
         "channel": "AE | Sharqiya from Kalba TV, Sharqiya from Kalba TV",
         "link": "https://list.iptvcat.com/my_list/s/2841836ce84eec03951926ed591a37a1.m3u8",
@@ -17210,6 +17178,22 @@
         ]
     },
     {
+        "id": "2472344",
+        "channel": "Nabaa TV (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/c4246032a6fb76ce41c41e4ad8f14692.m3u8",
+        "country": "arab countries",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25759",
         "channel": "Al Yaum",
         "link": "https://list.iptvcat.com/my_list/s/149991730fd675787fc7f7ce93d52b58.m3u8",
@@ -17258,19 +17242,35 @@
         ]
     },
     {
-        "id": "2472344",
-        "channel": "Nabaa TV (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/c4246032a6fb76ce41c41e4ad8f14692.m3u8",
+        "id": "2476163",
+        "channel": "1+1 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
-        "liveliness": "97",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
+        ]
+    },
+    {
+        "id": "3182",
+        "channel": "AE | Dubai Zaman, Dubai Zaman",
+        "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
         ]
     },
     {
@@ -19105,7 +19105,7 @@
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
+            "asia"
         ]
     },
     {

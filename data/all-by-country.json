@@ -3886,7 +3886,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -6951,7 +6951,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -8554,7 +8554,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -12425,7 +12425,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -15490,7 +15490,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -17042,38 +17042,6 @@
             ]
         },
         {
-            "id": "2476163",
-            "channel": "1+1 (1080p)",
-            "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
-            "country": "arab countries",
-            "liveliness": "86",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "8378",
-            "URI": [
-                "arab_countries",
-                "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia"
-            ]
-        },
-        {
-            "id": "3182",
-            "channel": "AE | Dubai Zaman, Dubai Zaman",
-            "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
-            "country": "arab countries",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "484",
-            "URI": [
-                "arab_countries",
-                "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia"
-            ]
-        },
-        {
             "id": "3252",
             "channel": "AE | Sharqiya from Kalba TV, Sharqiya from Kalba TV",
             "link": "https://list.iptvcat.com/my_list/s/2841836ce84eec03951926ed591a37a1.m3u8",
@@ -18157,6 +18125,22 @@
             ]
         },
         {
+            "id": "2472344",
+            "channel": "Nabaa TV (720p) [Not 24/7]",
+            "link": "https://list.iptvcat.com/my_list/s/c4246032a6fb76ce41c41e4ad8f14692.m3u8",
+            "country": "arab countries",
+            "liveliness": "97",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "hd",
+            "mbps": "3625",
+            "URI": [
+                "arab_countries",
+                "arab_countries_-_-_-_-_-_-_-_-_-_-",
+                "asia"
+            ]
+        },
+        {
             "id": "25759",
             "channel": "Al Yaum",
             "link": "https://list.iptvcat.com/my_list/s/149991730fd675787fc7f7ce93d52b58.m3u8",
@@ -18205,19 +18189,35 @@
             ]
         },
         {
-            "id": "2472344",
-            "channel": "Nabaa TV (720p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/c4246032a6fb76ce41c41e4ad8f14692.m3u8",
+            "id": "2476163",
+            "channel": "1+1 (1080p)",
+            "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
             "country": "arab countries",
-            "liveliness": "97",
+            "liveliness": "86",
             "status": "online",
             "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "3625",
+            "format": "fhd 2k",
+            "mbps": "8378",
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
+            ]
+        },
+        {
+            "id": "3182",
+            "channel": "AE | Dubai Zaman, Dubai Zaman",
+            "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
+            "country": "arab countries",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "sd",
+            "mbps": "484",
+            "URI": [
+                "arab_countries",
+                "arab_countries_-_-_-_-_-_-_-_-_-_-",
+                "asia"
             ]
         },
         {
@@ -20052,7 +20052,7 @@
             "URI": [
                 "arab_countries",
                 "arab_countries_-_-_-_-_-_-_-_-_-_-",
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
+                "asia"
             ]
         },
         {
@@ -23802,20 +23802,6 @@
             ]
         },
         {
-            "id": "22192",
-            "channel": "Omid Javedan",
-            "link": "https://list.iptvcat.com/my_list/s/d1ba6890e53e8e55418479652f1c17cc.m3u8",
-            "country": "asia",
-            "liveliness": "96",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "9546",
-            "URI": [
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2551536",
             "channel": "Oxir TV",
             "link": "https://list.iptvcat.com/my_list/s/9b3f21a58e2c82adb0b0fbbbe9d321c9.m3u8",
@@ -24763,6 +24749,20 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "sd",
             "mbps": "1509",
+            "URI": [
+                "asia_-_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2551461",
+            "channel": "iFILM One",
+            "link": "https://list.iptvcat.com/my_list/s/be6996ed3d306cf85022f5c516429a60.m3u8",
+            "country": "asia",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-05-19T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "22116",
             "URI": [
                 "asia_-_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -29052,20 +29052,6 @@
             ]
         },
         {
-            "id": "2551637",
-            "channel": "VIP Kan 11",
-            "link": "https://list.iptvcat.com/my_list/s/b9e716d974020b8a3544d1c272ef02d9.m3u8",
-            "country": "asia",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "asia"
-            ]
-        },
-        {
             "id": "2551638",
             "channel": "VIP Kan 33 (Makan TV)",
             "link": "https://list.iptvcat.com/my_list/s/2f180e6365936c7c16e205617f4534ec.m3u8",
@@ -30228,20 +30214,6 @@
             ]
         },
         {
-            "id": "2472632",
-            "channel": "Arirang Radio (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/e23db4b4ba542a256f7b89af28f8aaf1.m3u8",
-            "country": "asia",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "4318, ...",
-            "URI": [
-                "asia"
-            ]
-        },
-        {
             "id": "133211",
             "channel": "BBS Buddhist Broadcasting",
             "link": "https://list.iptvcat.com/my_list/s/727a04e8cecca61503798a92be8cb717.m3u8",
@@ -31007,20 +30979,6 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
-            "URI": [
-                "asia"
-            ]
-        },
-        {
-            "id": "2472508",
-            "channel": "DLTV 6 (1080p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/6e91cd49b14c314b1a5d2ec04e2df32c.m3u8",
-            "country": "asia",
-            "liveliness": "82",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2308",
             "URI": [
                 "asia"
             ]
@@ -32188,15 +32146,15 @@
             ]
         },
         {
-            "id": "2551461",
-            "channel": "iFILM One",
-            "link": "https://list.iptvcat.com/my_list/s/be6996ed3d306cf85022f5c516429a60.m3u8",
+            "id": "2472632",
+            "channel": "Arirang Radio (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/e23db4b4ba542a256f7b89af28f8aaf1.m3u8",
             "country": "asia",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-05-19T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "22116",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "hd",
+            "mbps": "4318, ...",
             "URI": [
                 "asia_-_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -33247,6 +33205,20 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "sd",
             "mbps": "1174",
+            "URI": [
+                "asia_-_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2551637",
+            "channel": "VIP Kan 11",
+            "link": "https://list.iptvcat.com/my_list/s/b9e716d974020b8a3544d1c272ef02d9.m3u8",
+            "country": "asia",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "asia_-_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -39286,20 +39258,6 @@
             ]
         },
         {
-            "id": "22192",
-            "channel": "Omid Javedan",
-            "link": "https://list.iptvcat.com/my_list/s/d1ba6890e53e8e55418479652f1c17cc.m3u8",
-            "country": "asia",
-            "liveliness": "96",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "9546",
-            "URI": [
-                "asia_-_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2551536",
             "channel": "Oxir TV",
             "link": "https://list.iptvcat.com/my_list/s/9b3f21a58e2c82adb0b0fbbbe9d321c9.m3u8",
@@ -41326,7 +41284,7 @@
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
-                "asia"
+                "asia_-_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
@@ -43104,7 +43062,7 @@
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
-                "asia"
+                "asia_-_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
@@ -43873,20 +43831,6 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
-            "URI": [
-                "asia"
-            ]
-        },
-        {
-            "id": "2472508",
-            "channel": "DLTV 6 (1080p) [Not 24/7]",
-            "link": "https://list.iptvcat.com/my_list/s/6e91cd49b14c314b1a5d2ec04e2df32c.m3u8",
-            "country": "asia",
-            "liveliness": "82",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2308",
             "URI": [
                 "asia"
             ]
