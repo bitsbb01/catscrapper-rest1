@@ -15475,6 +15475,23 @@
         ]
     },
     {
+        "id": "62369",
+        "channel": "Dijlah TV  jordan rtm",
+        "link": "https://list.iptvcat.com/my_list/s/13da437fbd25c4f42c9ea4a5b8602c19.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "latin_america",
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
         "id": "62372",
         "channel": "AL HAYAT rtm",
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
@@ -15499,23 +15516,6 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-05-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7986",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "latin_america",
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "62369",
-        "channel": "Dijlah TV  jordan rtm",
-        "link": "https://list.iptvcat.com/my_list/s/13da437fbd25c4f42c9ea4a5b8602c19.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -16092,6 +16092,38 @@
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2476163",
+        "channel": "1+1 (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
+        "country": "arab countries",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "3182",
+        "channel": "AE | Dubai Zaman, Dubai Zaman",
+        "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-05-20T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
         ]
     },
     {
@@ -17235,38 +17267,6 @@
         "lastChecked": "2022-05-20T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "2476163",
-        "channel": "1+1 (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
-        "country": "arab countries",
-        "liveliness": "86",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3182",
-        "channel": "AE | Dubai Zaman, Dubai Zaman",
-        "link": "https://list.iptvcat.com/my_list/s/87b86b45daf33f47efecebd360fce437.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-05-20T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
