@@ -50,7 +50,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8378, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -102,8 +102,8 @@
         "channel": "Belqees TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/f41a024fcfa11a7d074ee1264931d4cd.m3u8",
         "country": "arab countries",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -233,8 +233,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "fhd 2k",
+        "mbps": "3570, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -249,7 +249,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "559",
+        "mbps": "12145",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -670,7 +670,7 @@
         "link": "https://list.iptvcat.com/my_list/s/94332fd6153a3d55d99af0fa5900e18e.m3u8",
         "country": "arab countries",
         "liveliness": "93",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -824,7 +824,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1244e277c307c591a181b6e4d0576b9c.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -1022,7 +1022,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37b8f5e38e8e8c37f9196899a9180b1b.m3u8",
         "country": "arab countries",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
@@ -1554,7 +1554,7 @@
         "channel": "Sada Elbalad (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b506460c66f239bd5507a049be2fa8a9.m3u8",
         "country": "arab countries",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -1667,7 +1667,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c041bf9fc182ce7d82110b1900191a7d.m3u8",
         "country": "arab countries",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -1684,7 +1684,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "7004, ...",
+        "mbps": "1494",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1751,7 +1751,7 @@
         "link": "https://list.iptvcat.com/my_list/s/498def818be722cfdaa55669adb031e0.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -1849,7 +1849,7 @@
         "link": "https://list.iptvcat.com/my_list/s/5f45be47f1c9eab3c02db25078789972.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -1890,11 +1890,11 @@
         "channel": "Watania 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/196fbdc28acbed541dbc2e812e85c0ad.m3u8",
         "country": "arab countries",
-        "liveliness": "73",
-        "status": "online",
+        "liveliness": "72",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -1905,7 +1905,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b8e77fffe9db502362be250eed27f680.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
@@ -2040,36 +2040,6 @@
         ]
     },
     {
-        "id": "9212",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
-        "country": "arab countries",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9213",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
         "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
@@ -2094,6 +2064,36 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9212",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
+        "country": "arab countries",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9213",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -2345,11 +2345,11 @@
         ]
     },
     {
-        "id": "1513",
+        "id": "132953",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
         "country": "arab countries",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -2361,11 +2361,11 @@
         ]
     },
     {
-        "id": "132953",
+        "id": "1513",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
         "country": "arab countries",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -2585,9 +2585,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -2601,9 +2601,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -2777,6 +2777,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -2798,22 +2814,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -2862,7 +2862,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -3001,9 +3001,9 @@
         ]
     },
     {
-        "id": "2005",
+        "id": "25737",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -3017,9 +3017,9 @@
         ]
     },
     {
-        "id": "25737",
+        "id": "2005",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -3328,8 +3328,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -3497,9 +3497,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -3513,9 +3513,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -3598,7 +3598,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -3737,22 +3737,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -3762,6 +3746,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -3785,9 +3785,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -3801,9 +3801,9 @@
         ]
     },
     {
-        "id": "25767",
+        "id": "24791",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -3836,7 +3836,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8cf030a3884c2dba1bca3d36d982b1ca.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -3936,21 +3936,6 @@
         ]
     },
     {
-        "id": "25771",
-        "channel": "Dubai One",
-        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "3174",
         "channel": "Dubai One",
         "link": "https://list.iptvcat.com/my_list/s/15ed442653fe208b5f371118aecb6a77.m3u8",
@@ -3960,6 +3945,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "25771",
+        "channel": "Dubai One",
+        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4004,7 +4004,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "3570",
+        "mbps": "7004",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4049,22 +4049,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3179",
-        "channel": "Dubai Sports",
-        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
+        "mbps": "12145, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4080,6 +4065,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4131,21 +4131,6 @@
         ]
     },
     {
-        "id": "14227",
-        "channel": "Dubai Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "25777",
         "channel": "Dubai Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/3145d54d3842722b3efd1d9d970cdd0d.m3u8",
@@ -4155,6 +4140,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4198,8 +4198,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "1645, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4341,6 +4341,21 @@
         ]
     },
     {
+        "id": "3242",
+        "channel": "Noor Dubai",
+        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "24797",
         "channel": "Noor Dubai",
         "link": "https://list.iptvcat.com/my_list/s/29399535790da8be85b101ab80cc6f70.m3u8",
@@ -4380,21 +4395,6 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2229, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3242",
-        "channel": "Noor Dubai",
-        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -4496,7 +4496,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6846f7bbef4f0155af3a7d5271f22e2d.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -4712,7 +4712,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -4760,8 +4760,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -4971,7 +4971,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a65b8fddeebfb26b4eeb454ef9e75651.m3u8",
         "country": "arab countries",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -4984,8 +4984,8 @@
         "channel": "Al Ghad (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b4625115456b4fdbf02e1b0be8555195.m3u8",
         "country": "arab countries",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -5114,8 +5114,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "4043, ...",
+        "format": "sd",
+        "mbps": "1017, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -5140,7 +5140,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5c4d69b24c0cf69ec71daec0a01ed05.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -5408,11 +5408,11 @@
         ]
     },
     {
-        "id": "1513",
+        "id": "132953",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
         "country": "arab countries",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -5424,11 +5424,11 @@
         ]
     },
     {
-        "id": "132953",
+        "id": "1513",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
         "country": "arab countries",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -5648,9 +5648,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -5664,9 +5664,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -5840,6 +5840,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -5861,22 +5877,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -5925,7 +5925,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -6064,9 +6064,9 @@
         ]
     },
     {
-        "id": "2005",
+        "id": "25737",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -6080,9 +6080,9 @@
         ]
     },
     {
-        "id": "25737",
+        "id": "2005",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -6391,8 +6391,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -6560,9 +6560,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -6576,9 +6576,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -6661,7 +6661,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -6800,22 +6800,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -6825,6 +6809,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -6848,9 +6848,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -7011,11 +7011,11 @@
         ]
     },
     {
-        "id": "1513",
+        "id": "132953",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
         "country": "arab countries",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -7027,11 +7027,11 @@
         ]
     },
     {
-        "id": "132953",
+        "id": "1513",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
         "country": "arab countries",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -7251,9 +7251,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -7267,9 +7267,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -7443,6 +7443,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -7464,22 +7480,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -7528,7 +7528,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -7667,9 +7667,9 @@
         ]
     },
     {
-        "id": "2005",
+        "id": "25737",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -7683,9 +7683,9 @@
         ]
     },
     {
-        "id": "25737",
+        "id": "2005",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -7994,8 +7994,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -8163,9 +8163,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -8179,9 +8179,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -8264,7 +8264,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -8403,22 +8403,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -8428,6 +8412,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -8451,9 +8451,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -8612,7 +8612,7 @@
         "channel": "Sada Elbalad (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b506460c66f239bd5507a049be2fa8a9.m3u8",
         "country": "arab countries",
-        "liveliness": "92",
+        "liveliness": "93",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -8725,7 +8725,7 @@
         "link": "https://list.iptvcat.com/my_list/s/c041bf9fc182ce7d82110b1900191a7d.m3u8",
         "country": "arab countries",
         "liveliness": "83",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -8742,7 +8742,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "7004, ...",
+        "mbps": "1494",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8809,7 +8809,7 @@
         "link": "https://list.iptvcat.com/my_list/s/498def818be722cfdaa55669adb031e0.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -8907,7 +8907,7 @@
         "link": "https://list.iptvcat.com/my_list/s/5f45be47f1c9eab3c02db25078789972.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -8948,11 +8948,11 @@
         "channel": "Watania 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/196fbdc28acbed541dbc2e812e85c0ad.m3u8",
         "country": "arab countries",
-        "liveliness": "73",
-        "status": "online",
+        "liveliness": "72",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "format": "fhd 2k",
+        "mbps": "8378",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -8963,7 +8963,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b8e77fffe9db502362be250eed27f680.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
@@ -9098,36 +9098,6 @@
         ]
     },
     {
-        "id": "9212",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
-        "country": "arab countries",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9213",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
         "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
@@ -9152,6 +9122,36 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9212",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
+        "country": "arab countries",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9213",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -9306,7 +9306,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8378",
+        "mbps": "8378, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -9358,8 +9358,8 @@
         "channel": "Belqees TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/f41a024fcfa11a7d074ee1264931d4cd.m3u8",
         "country": "arab countries",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -9489,8 +9489,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "fhd 2k",
+        "mbps": "3570, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -9505,7 +9505,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "559",
+        "mbps": "12145",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -9926,7 +9926,7 @@
         "link": "https://list.iptvcat.com/my_list/s/94332fd6153a3d55d99af0fa5900e18e.m3u8",
         "country": "arab countries",
         "liveliness": "93",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -10080,7 +10080,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1244e277c307c591a181b6e4d0576b9c.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
@@ -10278,7 +10278,7 @@
         "link": "https://list.iptvcat.com/my_list/s/37b8f5e38e8e8c37f9196899a9180b1b.m3u8",
         "country": "arab countries",
         "liveliness": "76",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2743",
@@ -10812,11 +10812,11 @@
         ]
     },
     {
-        "id": "1513",
+        "id": "132953",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
         "country": "arab countries",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -10828,11 +10828,11 @@
         ]
     },
     {
-        "id": "132953",
+        "id": "1513",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
         "country": "arab countries",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -11052,9 +11052,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -11068,9 +11068,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -11244,6 +11244,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -11265,22 +11281,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -11329,7 +11329,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -11468,9 +11468,9 @@
         ]
     },
     {
-        "id": "2005",
+        "id": "25737",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -11484,9 +11484,9 @@
         ]
     },
     {
-        "id": "25737",
+        "id": "2005",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -11795,8 +11795,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -11964,9 +11964,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -11980,9 +11980,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -12065,7 +12065,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -12204,22 +12204,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -12229,6 +12213,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -12252,9 +12252,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -12268,9 +12268,9 @@
         ]
     },
     {
-        "id": "25767",
+        "id": "24791",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -12303,7 +12303,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8cf030a3884c2dba1bca3d36d982b1ca.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -12403,21 +12403,6 @@
         ]
     },
     {
-        "id": "25771",
-        "channel": "Dubai One",
-        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "3174",
         "channel": "Dubai One",
         "link": "https://list.iptvcat.com/my_list/s/15ed442653fe208b5f371118aecb6a77.m3u8",
@@ -12427,6 +12412,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "25771",
+        "channel": "Dubai One",
+        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12471,7 +12471,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "3570",
+        "mbps": "7004",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12516,22 +12516,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3179",
-        "channel": "Dubai Sports",
-        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
+        "mbps": "12145, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12547,6 +12532,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12598,21 +12598,6 @@
         ]
     },
     {
-        "id": "14227",
-        "channel": "Dubai Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "25777",
         "channel": "Dubai Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/3145d54d3842722b3efd1d9d970cdd0d.m3u8",
@@ -12622,6 +12607,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12665,8 +12665,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "1645, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12808,6 +12808,21 @@
         ]
     },
     {
+        "id": "3242",
+        "channel": "Noor Dubai",
+        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "24797",
         "channel": "Noor Dubai",
         "link": "https://list.iptvcat.com/my_list/s/29399535790da8be85b101ab80cc6f70.m3u8",
@@ -12847,21 +12862,6 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2229, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3242",
-        "channel": "Noor Dubai",
-        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -12963,7 +12963,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6846f7bbef4f0155af3a7d5271f22e2d.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -13179,7 +13179,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -13227,8 +13227,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -13438,7 +13438,7 @@
         "link": "https://list.iptvcat.com/my_list/s/a65b8fddeebfb26b4eeb454ef9e75651.m3u8",
         "country": "arab countries",
         "liveliness": "88",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370",
@@ -13451,8 +13451,8 @@
         "channel": "Al Ghad (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b4625115456b4fdbf02e1b0be8555195.m3u8",
         "country": "arab countries",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -13581,8 +13581,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "4043, ...",
+        "format": "sd",
+        "mbps": "1017, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -13607,7 +13607,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5c4d69b24c0cf69ec71daec0a01ed05.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
@@ -13875,11 +13875,11 @@
         ]
     },
     {
-        "id": "1513",
+        "id": "132953",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
         "country": "arab countries",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -13891,11 +13891,11 @@
         ]
     },
     {
-        "id": "132953",
+        "id": "1513",
         "channel": "Al Rafidain HQ",
-        "link": "https://list.iptvcat.com/my_list/s/f7e8dddd7523c7235ac1e65fee9a7541.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/405bedd1d4f07efa08a73432870841a3.m3u8",
         "country": "arab countries",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
@@ -14115,9 +14115,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -14131,9 +14131,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -14307,6 +14307,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -14328,22 +14344,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -14392,7 +14392,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -14531,9 +14531,9 @@
         ]
     },
     {
-        "id": "2005",
+        "id": "25737",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -14547,9 +14547,9 @@
         ]
     },
     {
-        "id": "25737",
+        "id": "2005",
         "channel": "Télé Maroc",
-        "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/2e64435b8814346777e1a6ec40748489.m3u8",
         "country": "arab countries",
         "liveliness": "98",
         "status": "online",
@@ -14858,8 +14858,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -15027,9 +15027,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -15043,9 +15043,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "https://list.iptvcat.com/my_list/s/3c7ca62f64256005715765a83038a7f7.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/4dc2b5a0a37cad7befa2df6e95471daf.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -15128,7 +15128,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -15267,22 +15267,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -15292,6 +15276,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -15315,9 +15315,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -16004,7 +16004,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -16111,15 +16111,15 @@
         ]
     },
     {
-        "id": "3158",
+        "id": "25765",
         "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
         "country": "arab countries",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
+        "format": "hd",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -16132,7 +16132,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -16180,8 +16180,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -16318,8 +16318,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "fhd 2k",
+        "mbps": "3570, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -16334,7 +16334,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "559",
+        "mbps": "12145",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -16462,36 +16462,6 @@
         ]
     },
     {
-        "id": "9212",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
-        "country": "arab countries",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9213",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
         "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
@@ -16516,6 +16486,36 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9212",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
+        "country": "arab countries",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9213",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -16785,8 +16785,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -16906,15 +16906,15 @@
         ]
     },
     {
-        "id": "25765",
+        "id": "3158",
         "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
         "country": "arab countries",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -16938,9 +16938,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -16954,9 +16954,9 @@
         ]
     },
     {
-        "id": "25767",
+        "id": "24791",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -16989,7 +16989,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8cf030a3884c2dba1bca3d36d982b1ca.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -17008,6 +17008,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "2476166",
+        "channel": "CNL Европа (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/20227230c5396722b3c765a7767fa066.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17059,21 +17074,6 @@
         ]
     },
     {
-        "id": "2476166",
-        "channel": "CNL Европа (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/20227230c5396722b3c765a7767fa066.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "679649",
         "channel": "Cartoon Network Arabic",
         "link": "https://list.iptvcat.com/my_list/s/34c953631b56321fa5edbc4cd0982d86.m3u8",
@@ -17089,21 +17089,6 @@
         ]
     },
     {
-        "id": "25771",
-        "channel": "Dubai One",
-        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "3174",
         "channel": "Dubai One",
         "link": "https://list.iptvcat.com/my_list/s/15ed442653fe208b5f371118aecb6a77.m3u8",
@@ -17113,6 +17098,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "25771",
+        "channel": "Dubai One",
+        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17157,22 +17157,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "3570",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "24793",
-        "channel": "Dubai Racing 2",
-        "link": "https://list.iptvcat.com/my_list/s/a63738ebf75ceea90e898d20b562fed8.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "7004",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17194,6 +17179,21 @@
         ]
     },
     {
+        "id": "24793",
+        "channel": "Dubai Racing 2",
+        "link": "https://list.iptvcat.com/my_list/s/a63738ebf75ceea90e898d20b562fed8.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25774",
         "channel": "Dubai Racing 3",
         "link": "https://list.iptvcat.com/my_list/s/78b700eb52becaba3236a6287bc5a1dc.m3u8",
@@ -17202,22 +17202,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3179",
-        "channel": "Dubai Sports",
-        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
+        "mbps": "12145, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17239,9 +17224,9 @@
         ]
     },
     {
-        "id": "14225",
-        "channel": "Dubai Sports 1",
-        "link": "https://list.iptvcat.com/my_list/s/3356a02ac24108324a01b7e08a4c9d95.m3u8",
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -17254,9 +17239,9 @@
         ]
     },
     {
-        "id": "14226",
-        "channel": "Dubai Sports 2",
-        "link": "https://list.iptvcat.com/my_list/s/98ac40c5b1fe91249cac4ac8c267fb45.m3u8",
+        "id": "14225",
+        "channel": "Dubai Sports 1",
+        "link": "https://list.iptvcat.com/my_list/s/3356a02ac24108324a01b7e08a4c9d95.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -17284,9 +17269,9 @@
         ]
     },
     {
-        "id": "14227",
-        "channel": "Dubai Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "id": "14226",
+        "channel": "Dubai Sports 2",
+        "link": "https://list.iptvcat.com/my_list/s/98ac40c5b1fe91249cac4ac8c267fb45.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -17308,6 +17293,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17351,8 +17351,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "1645, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17494,6 +17494,21 @@
         ]
     },
     {
+        "id": "3242",
+        "channel": "Noor Dubai",
+        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "24797",
         "channel": "Noor Dubai",
         "link": "https://list.iptvcat.com/my_list/s/29399535790da8be85b101ab80cc6f70.m3u8",
@@ -17533,21 +17548,6 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2229, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3242",
-        "channel": "Noor Dubai",
-        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -17634,7 +17634,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6846f7bbef4f0155af3a7d5271f22e2d.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -17879,9 +17879,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -17895,9 +17895,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -18071,6 +18071,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -18092,22 +18108,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -18156,7 +18156,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -18519,9 +18519,9 @@
         ]
     },
     {
-        "id": "1541",
+        "id": "1540",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -18535,9 +18535,9 @@
         ]
     },
     {
-        "id": "1540",
+        "id": "1541",
         "channel": "Rudaw TV",
-        "link": "https://list.iptvcat.com/my_list/s/a39740a933530ea414729d06f7c56758.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/1414f92817c5f2f26f576e84cc26f385.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -18711,6 +18711,22 @@
         ]
     },
     {
+        "id": "1872",
+        "channel": "Nabaa TV",
+        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
+        "country": "arab countries",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25730",
         "channel": "Nabaa TV",
         "link": "https://list.iptvcat.com/my_list/s/dd2b31222923f0f857a462501958093a.m3u8",
@@ -18732,22 +18748,6 @@
         "link": "https://list.iptvcat.com/my_list/s/6067fe5311ce7f467a16d23da1e54ee2.m3u8",
         "country": "arab countries",
         "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "1872",
-        "channel": "Nabaa TV",
-        "link": "https://list.iptvcat.com/my_list/s/117853d3d4358678d38dd1290db82f15.m3u8",
-        "country": "arab countries",
-        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
@@ -18796,7 +18796,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b36c376b3728c861151755e83f71502c.m3u8",
         "country": "arab countries",
         "liveliness": "84",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "1242",
@@ -18876,7 +18876,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b5b5c70dcf188c6f30cf0877928f7682.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -18924,8 +18924,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "hd",
+        "mbps": "13311, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -19062,8 +19062,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "format": "fhd 2k",
+        "mbps": "3570, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -19078,7 +19078,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "559",
+        "mbps": "12145",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -19206,36 +19206,6 @@
         ]
     },
     {
-        "id": "9212",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
-        "country": "arab countries",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "9213",
-        "channel": "ZEE ALWAN (1280×720)",
-        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "4257",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "9218",
         "channel": "ZEE ALWAN (1280×720)",
         "link": "https://list.iptvcat.com/my_list/s/ab669ee189b5d02e94f2d3410a9e492a.m3u8",
@@ -19260,6 +19230,36 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "11989",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9212",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/ea9066e12e5f4b63293634fc64b56e27.m3u8",
+        "country": "arab countries",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "9213",
+        "channel": "ZEE ALWAN (1280×720)",
+        "link": "https://list.iptvcat.com/my_list/s/f378546c5e6739dcc9a1067f3799e342.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "4257",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia_-_-_-_-_-_-_-_-_-_-_-"
@@ -19529,8 +19529,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "899, ...",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -19703,7 +19703,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ad17100dd8410fc210c05f8bd74f0bfe.m3u8",
         "country": "arab countries",
         "liveliness": "85",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -19810,22 +19810,6 @@
         ]
     },
     {
-        "id": "3158",
-        "channel": "Abu Dhabi Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
-        "URI": [
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "25765",
         "channel": "Abu Dhabi Sports 3",
         "link": "https://list.iptvcat.com/my_list/s/047533e063b6ef319c92c26855027e70.m3u8",
@@ -19835,6 +19819,22 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
+        "URI": [
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/e4399f97a5f7551cbc83209a74d4c5f0.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries",
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
@@ -19858,9 +19858,9 @@
         ]
     },
     {
-        "id": "24791",
+        "id": "25767",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -19874,9 +19874,9 @@
         ]
     },
     {
-        "id": "25767",
+        "id": "24791",
         "channel": "Abu Dhabi TV",
-        "link": "https://list.iptvcat.com/my_list/s/08d96b6c36a6fe3e1fa09ba5e744260b.m3u8",
+        "link": "https://list.iptvcat.com/my_list/s/bfcdf2bb79da26a22de05188792a6a33.m3u8",
         "country": "arab countries",
         "liveliness": "100",
         "status": "online",
@@ -19909,7 +19909,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8cf030a3884c2dba1bca3d36d982b1ca.m3u8",
         "country": "arab countries",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "4322",
@@ -19928,6 +19928,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "2476166",
+        "channel": "CNL Европа (360p)",
+        "link": "https://list.iptvcat.com/my_list/s/20227230c5396722b3c765a7767fa066.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -19979,21 +19994,6 @@
         ]
     },
     {
-        "id": "2476166",
-        "channel": "CNL Европа (360p)",
-        "link": "https://list.iptvcat.com/my_list/s/20227230c5396722b3c765a7767fa066.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "679649",
         "channel": "Cartoon Network Arabic",
         "link": "https://list.iptvcat.com/my_list/s/34c953631b56321fa5edbc4cd0982d86.m3u8",
@@ -20009,21 +20009,6 @@
         ]
     },
     {
-        "id": "25771",
-        "channel": "Dubai One",
-        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
         "id": "3174",
         "channel": "Dubai One",
         "link": "https://list.iptvcat.com/my_list/s/15ed442653fe208b5f371118aecb6a77.m3u8",
@@ -20033,6 +20018,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "25771",
+        "channel": "Dubai One",
+        "link": "https://list.iptvcat.com/my_list/s/6832e8b022f8c83bfb0098b7e495a718.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20077,22 +20077,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "3570",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "24793",
-        "channel": "Dubai Racing 2",
-        "link": "https://list.iptvcat.com/my_list/s/a63738ebf75ceea90e898d20b562fed8.m3u8",
-        "country": "arab countries",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "7004",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20114,6 +20099,21 @@
         ]
     },
     {
+        "id": "24793",
+        "channel": "Dubai Racing 2",
+        "link": "https://list.iptvcat.com/my_list/s/a63738ebf75ceea90e898d20b562fed8.m3u8",
+        "country": "arab countries",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "25774",
         "channel": "Dubai Racing 3",
         "link": "https://list.iptvcat.com/my_list/s/78b700eb52becaba3236a6287bc5a1dc.m3u8",
@@ -20122,22 +20122,7 @@
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
-        "mbps": "12145",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3179",
-        "channel": "Dubai Sports",
-        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
+        "mbps": "12145, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20159,9 +20144,9 @@
         ]
     },
     {
-        "id": "14225",
-        "channel": "Dubai Sports 1",
-        "link": "https://list.iptvcat.com/my_list/s/3356a02ac24108324a01b7e08a4c9d95.m3u8",
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "https://list.iptvcat.com/my_list/s/0258e65473b0a59a2dbfa81fa74748cb.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -20174,9 +20159,9 @@
         ]
     },
     {
-        "id": "14226",
-        "channel": "Dubai Sports 2",
-        "link": "https://list.iptvcat.com/my_list/s/98ac40c5b1fe91249cac4ac8c267fb45.m3u8",
+        "id": "14225",
+        "channel": "Dubai Sports 1",
+        "link": "https://list.iptvcat.com/my_list/s/3356a02ac24108324a01b7e08a4c9d95.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -20204,9 +20189,9 @@
         ]
     },
     {
-        "id": "14227",
-        "channel": "Dubai Sports 3",
-        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "id": "14226",
+        "channel": "Dubai Sports 2",
+        "link": "https://list.iptvcat.com/my_list/s/98ac40c5b1fe91249cac4ac8c267fb45.m3u8",
         "country": "arab countries",
         "liveliness": "99",
         "status": "online",
@@ -20228,6 +20213,21 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "https://list.iptvcat.com/my_list/s/6d54ad250ff62a1f923f0aa7117772cc.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20271,8 +20271,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126, ...",
+        "format": "sd",
+        "mbps": "1645, ...",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20414,6 +20414,21 @@
         ]
     },
     {
+        "id": "3242",
+        "channel": "Noor Dubai",
+        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
+        "country": "arab countries",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-06-14T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "arab_countries_-_-_-_-_-_-_-_-_-_-",
+            "asia"
+        ]
+    },
+    {
         "id": "24797",
         "channel": "Noor Dubai",
         "link": "https://list.iptvcat.com/my_list/s/29399535790da8be85b101ab80cc6f70.m3u8",
@@ -20453,21 +20468,6 @@
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "sd",
         "mbps": "2229, ...",
-        "URI": [
-            "arab_countries_-_-_-_-_-_-_-_-_-_-",
-            "asia"
-        ]
-    },
-    {
-        "id": "3242",
-        "channel": "Noor Dubai",
-        "link": "https://list.iptvcat.com/my_list/s/dab5b0bdd85a8bdf400135424e62abf9.m3u8",
-        "country": "arab countries",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-06-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "484",
         "URI": [
             "arab_countries_-_-_-_-_-_-_-_-_-_-",
             "asia"
@@ -20554,7 +20554,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6846f7bbef4f0155af3a7d5271f22e2d.m3u8",
         "country": "arab countries",
         "liveliness": "86",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-06-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
