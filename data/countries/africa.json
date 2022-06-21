@@ -22,7 +22,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -148,7 +148,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -203,8 +203,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -214,8 +214,8 @@
         "channel": "eXtra News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a2777fc4c4ea945c65832167891ec2eb.m3u8",
         "country": "africa",
-        "liveliness": "82",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -371,8 +371,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -386,7 +386,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -399,8 +399,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -424,11 +424,11 @@
         "channel": "Boomerang",
         "link": "https://list.iptvcat.com/my_list/s/35b79b6a012adf8843b3f40ca5550670.m3u8",
         "country": "africa",
-        "liveliness": "60",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -495,7 +495,7 @@
         "channel": "K24 (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/126359ccca1dd3b9670e1b2c3f9a8bb9.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -526,7 +526,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -573,7 +573,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -583,7 +583,7 @@
         "channel": "CNBC",
         "link": "https://list.iptvcat.com/my_list/s/b5f405eb28d82e66dc1eff3d991e3866.m3u8",
         "country": "africa",
-        "liveliness": "60",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -614,8 +614,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -625,11 +625,11 @@
         "channel": "Discovery Family",
         "link": "https://list.iptvcat.com/my_list/s/9ac79e1be771ee7e616433507f01559d.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -657,7 +657,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -709,11 +709,11 @@
         "channel": "History",
         "link": "https://list.iptvcat.com/my_list/s/652ea6917456ce49def60b14decb11b3.m3u8",
         "country": "africa",
-        "liveliness": "60",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "africa"
         ]
@@ -768,8 +768,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -852,8 +852,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -965,7 +965,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3795",
         "URI": [
             "africa"
         ]
@@ -978,8 +978,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -992,8 +992,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "africa"
         ]
@@ -1021,7 +1021,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1894",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -1035,7 +1035,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "1894",
         "URI": [
             "africa"
         ]
@@ -1076,8 +1076,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -1101,11 +1101,11 @@
         "channel": "SABC News",
         "link": "https://list.iptvcat.com/my_list/s/1031bdfa59a95631045ea7c8e2359749.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -1119,7 +1119,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2089",
         "URI": [
             "africa"
         ]
@@ -1132,8 +1132,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -1143,8 +1143,8 @@
         "channel": "SuperSport Action",
         "link": "https://list.iptvcat.com/my_list/s/9e6016508e54f739c6bc4901db75b871.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1171,7 +1171,7 @@
         "channel": "SuperSport Cricket",
         "link": "https://list.iptvcat.com/my_list/s/3d43d09c8b325eac87c5ecac4752f2e7.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1199,8 +1199,8 @@
         "channel": "SuperSport Golf",
         "link": "https://list.iptvcat.com/my_list/s/15c85eed4bb82bc0e613c4c30ff859c3.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1255,7 +1255,7 @@
         "channel": "SuperSport Motorsport",
         "link": "https://list.iptvcat.com/my_list/s/2a84db9b53acdfb4f4402d7c64cd35c9.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1283,7 +1283,7 @@
         "channel": "SuperSport PSL",
         "link": "https://list.iptvcat.com/my_list/s/abd82fd4921a68debea16cf170aaad74.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1297,7 +1297,7 @@
         "channel": "SuperSport Premier League",
         "link": "https://list.iptvcat.com/my_list/s/56054144093dd22ab4a680665cb0c49d.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1325,8 +1325,8 @@
         "channel": "SuperSport Rugby",
         "link": "https://list.iptvcat.com/my_list/s/d0940fe6f6bd3c5893e104a45abdf60c.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1353,7 +1353,7 @@
         "channel": "SuperSport Tennis",
         "link": "https://list.iptvcat.com/my_list/s/853a58a69f104eed8f51c185c5b9a462.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1381,8 +1381,8 @@
         "channel": "SuperSport Variety 1",
         "link": "https://list.iptvcat.com/my_list/s/99347443265fcf0a756f50c28c30b359.m3u8",
         "country": "africa",
-        "liveliness": "75",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1409,7 +1409,7 @@
         "channel": "SuperSport Variety 2",
         "link": "https://list.iptvcat.com/my_list/s/2fb08d4e6e16fe27fda851605acf0eb3.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1437,7 +1437,7 @@
         "channel": "SuperSport Variety 3",
         "link": "https://list.iptvcat.com/my_list/s/825365e2cd17a2c223a2539e703bfd38.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -1454,8 +1454,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "africa"
         ]
@@ -1465,8 +1465,8 @@
         "channel": "SuperSport Variety 4",
         "link": "https://list.iptvcat.com/my_list/s/dde3c3fe172694f7b0dbfdf70548ad1b.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -1510,8 +1510,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -1648,7 +1648,7 @@
         "channel": "K24 (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/126359ccca1dd3b9670e1b2c3f9a8bb9.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -1679,7 +1679,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -1726,7 +1726,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -1852,7 +1852,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -1907,8 +1907,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -1918,8 +1918,8 @@
         "channel": "eXtra News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a2777fc4c4ea945c65832167891ec2eb.m3u8",
         "country": "africa",
-        "liveliness": "82",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -2075,8 +2075,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -2090,7 +2090,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -2103,8 +2103,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -2128,11 +2128,11 @@
         "channel": "Boomerang",
         "link": "https://list.iptvcat.com/my_list/s/35b79b6a012adf8843b3f40ca5550670.m3u8",
         "country": "africa",
-        "liveliness": "60",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -2174,7 +2174,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -2184,7 +2184,7 @@
         "channel": "CNBC",
         "link": "https://list.iptvcat.com/my_list/s/b5f405eb28d82e66dc1eff3d991e3866.m3u8",
         "country": "africa",
-        "liveliness": "60",
+        "liveliness": "75",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -2215,8 +2215,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2226,11 +2226,11 @@
         "channel": "Discovery Family",
         "link": "https://list.iptvcat.com/my_list/s/9ac79e1be771ee7e616433507f01559d.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2258,7 +2258,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -2310,11 +2310,11 @@
         "channel": "History",
         "link": "https://list.iptvcat.com/my_list/s/652ea6917456ce49def60b14decb11b3.m3u8",
         "country": "africa",
-        "liveliness": "60",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370",
         "URI": [
             "africa"
         ]
@@ -2369,8 +2369,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2453,8 +2453,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2566,7 +2566,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "3795",
         "URI": [
             "africa"
         ]
@@ -2579,8 +2579,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2593,8 +2593,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "africa"
         ]
@@ -2622,7 +2622,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1894",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2636,7 +2636,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "1894",
         "URI": [
             "africa"
         ]
@@ -2677,8 +2677,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2702,11 +2702,11 @@
         "channel": "SABC News",
         "link": "https://list.iptvcat.com/my_list/s/1031bdfa59a95631045ea7c8e2359749.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2720,7 +2720,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2089",
         "URI": [
             "africa"
         ]
@@ -2733,8 +2733,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -2744,8 +2744,8 @@
         "channel": "SuperSport Action",
         "link": "https://list.iptvcat.com/my_list/s/9e6016508e54f739c6bc4901db75b871.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2772,7 +2772,7 @@
         "channel": "SuperSport Cricket",
         "link": "https://list.iptvcat.com/my_list/s/3d43d09c8b325eac87c5ecac4752f2e7.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "78",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -2800,8 +2800,8 @@
         "channel": "SuperSport Golf",
         "link": "https://list.iptvcat.com/my_list/s/15c85eed4bb82bc0e613c4c30ff859c3.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2856,7 +2856,7 @@
         "channel": "SuperSport Motorsport",
         "link": "https://list.iptvcat.com/my_list/s/2a84db9b53acdfb4f4402d7c64cd35c9.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -2884,7 +2884,7 @@
         "channel": "SuperSport PSL",
         "link": "https://list.iptvcat.com/my_list/s/abd82fd4921a68debea16cf170aaad74.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -2898,7 +2898,7 @@
         "channel": "SuperSport Premier League",
         "link": "https://list.iptvcat.com/my_list/s/56054144093dd22ab4a680665cb0c49d.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -2926,8 +2926,8 @@
         "channel": "SuperSport Rugby",
         "link": "https://list.iptvcat.com/my_list/s/d0940fe6f6bd3c5893e104a45abdf60c.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -2954,7 +2954,7 @@
         "channel": "SuperSport Tennis",
         "link": "https://list.iptvcat.com/my_list/s/853a58a69f104eed8f51c185c5b9a462.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -2982,8 +2982,8 @@
         "channel": "SuperSport Variety 1",
         "link": "https://list.iptvcat.com/my_list/s/99347443265fcf0a756f50c28c30b359.m3u8",
         "country": "africa",
-        "liveliness": "75",
-        "status": "offline",
+        "liveliness": "67",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3010,7 +3010,7 @@
         "channel": "SuperSport Variety 2",
         "link": "https://list.iptvcat.com/my_list/s/2fb08d4e6e16fe27fda851605acf0eb3.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -3038,7 +3038,7 @@
         "channel": "SuperSport Variety 3",
         "link": "https://list.iptvcat.com/my_list/s/825365e2cd17a2c223a2539e703bfd38.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
@@ -3055,8 +3055,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "africa"
         ]
@@ -3066,8 +3066,8 @@
         "channel": "SuperSport Variety 4",
         "link": "https://list.iptvcat.com/my_list/s/dde3c3fe172694f7b0dbfdf70548ad1b.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -3111,8 +3111,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa"
         ]
@@ -3224,7 +3224,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "1011",
+        "mbps": "1008",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3350,7 +3350,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3405,8 +3405,8 @@
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "7986, ...",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3416,8 +3416,8 @@
         "channel": "eXtra News (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a2777fc4c4ea945c65832167891ec2eb.m3u8",
         "country": "africa",
-        "liveliness": "82",
-        "status": "offline",
+        "liveliness": "81",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -3573,8 +3573,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3588,7 +3588,7 @@
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5020",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3601,8 +3601,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "format": "sd",
+        "mbps": "3262",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3626,11 +3626,11 @@
         "channel": "Boomerang",
         "link": "https://list.iptvcat.com/my_list/s/35b79b6a012adf8843b3f40ca5550670.m3u8",
         "country": "africa",
-        "liveliness": "60",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -3669,7 +3669,7 @@
         "channel": "K24 (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/126359ccca1dd3b9670e1b2c3f9a8bb9.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -3700,7 +3700,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
@@ -3744,7 +3744,7 @@
         "channel": "K24 (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/126359ccca1dd3b9670e1b2c3f9a8bb9.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "sd",
@@ -3775,7 +3775,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b1cdf77a796df119bc51c8f6350a3675.m3u8",
         "country": "africa",
         "liveliness": "77",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-06-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
